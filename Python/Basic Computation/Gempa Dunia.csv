@@ -1,0 +1,393 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-12-31T02:34:13.422Z,-23.294,-179.8039,537.4,4.6,mb,,117,10.123,0.74,us,us70006ssq,2019-12-31T03:00:00.040Z,"South of the Fiji Islands",earthquake,12.5,9.5,0.055,99,reviewed,us,us
+2019-12-31T02:03:00.304Z,-33.3601,-178.4265,10,5,mb,,166,4.124,0.68,us,us70006ssh,2019-12-31T02:22:32.848Z,"218km SSE of L'Esperance Rock, New Zealand",earthquake,8,1.9,0.126,20,reviewed,us,us
+2019-12-31T01:04:00.258Z,56.4869,-148.2447,10,3.5,ml,,256,2.698,0.94,us,us70006ss9,2019-12-31T01:34:33.040Z,"290km ESE of Kodiak, Alaska",earthquake,9.9,2,0.042,76,reviewed,us,us
+2019-12-31T00:52:51.117Z,35.6732,74.716,10,4.2,mb,,99,2.344,1.18,us,us70006ss4,2019-12-31T01:13:53.040Z,"38km NNW of Idgah, Pakistan",earthquake,9.6,1.9,0.132,16,reviewed,us,us
+2019-12-31T00:21:09.002Z,55.2401,161.1817,109.28,4.5,mb,,113,2.674,0.67,us,us70006srq,2019-12-31T00:50:54.040Z,"136km SW of Ust'-Kamchatsk Staryy, Russia",earthquake,9.1,6.8,0.04,189,reviewed,us,us
+2019-12-30T23:31:43.580Z,35.9433327,-120.0043335,7.81,2.74,md,42,104,0.2296,0.1,nc,nc73321576,2019-12-31T03:34:02.875Z,"8km SSW of Kettleman City, CA",earthquake,0.56,1.01,0.18,26,automatic,nc,nc
+2019-12-30T23:28:51.340Z,37.7093315,-122.1096649,4.63,2.67,md,76,28,0.01666,0.09,nc,nc73321571,2019-12-31T03:52:11.675Z,"3km NW of Castro Valley, CA",earthquake,0.12,0.3,0.12,83,automatic,nc,nc
+2019-12-30T22:37:00.570Z,19.436,-66.2138,33,3.16,md,9,310,1.1345,0.26,pr,pr2019364036,2019-12-31T02:18:35.789Z,"107km N of San Juan, Puerto Rico",earthquake,2.15,17.27,0.13,6,reviewed,pr,pr
+2019-12-30T22:09:16.880Z,17.8811,-66.8703,8,2.52,md,13,227,0.0944,0.26,pr,pr2019364034,2019-12-30T22:35:18.040Z,"13km SSE of Guanica, Puerto Rico",earthquake,0.94,1.32,0.41,13,reviewed,pr,pr
+2019-12-30T22:01:13.990Z,35.7645,-117.5773333,5.94,2.51,ml,31,64,0.0537,0.14,ci,ci39017999,2019-12-30T22:11:57.180Z,"16km W of Searles Valley, CA",earthquake,0.2,0.65,0.137,26,automatic,ci,ci
+2019-12-30T22:00:10.428Z,43.9163,-111.1063,5.29,3.1,ml,,83,0.284,0.44,us,us70006spn,2019-12-31T03:48:36.025Z,"21km N of Driggs, Idaho",earthquake,1.5,1.4,0.059,38,reviewed,us,us
+2019-12-30T20:46:02.498Z,-24.7954,-69.8641,76.98,3.9,mb,,127,0.442,0.39,us,us70006snk,2019-12-30T21:45:35.040Z,"91km NE of Taltal, Chile",earthquake,5.1,4.3,0.361,2,reviewed,us,us
+2019-12-30T20:44:11.223Z,59.7246,-152.3059,65.7,3.4,ml,,,,0.61,ak,ak019gqbsg6w,2019-12-30T22:27:28.046Z,"27km WSW of Anchor Point, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2019-12-30T20:34:22.699Z,56.5019,-148.5349,10,3.4,ml,,253,2.552,0.73,us,us70006sp2,2019-12-30T21:27:07.040Z,"274km ESE of Kodiak, Alaska",earthquake,3.9,2,0.051,50,reviewed,us,us
+2019-12-30T20:11:12.000Z,17.8876,-66.8863,3,2.56,md,14,227,0.0878,0.35,pr,pr2019364021,2019-12-30T21:20:49.040Z,"12km SSE of Guanica, Puerto Rico",earthquake,1.08,0.78,0.35,13,reviewed,pr,pr
+2019-12-30T19:59:20.950Z,17.8796,-66.8245,11,2.75,md,14,224,0.1101,0.34,pr,pr2019364020,2019-12-30T21:11:44.040Z,"15km S of Indios, Puerto Rico",earthquake,1.07,1.15,0.38,14,reviewed,pr,pr
+2019-12-30T19:57:02.690Z,41.4988333,-108.7973333,6.48,2.7,ml,13,185,0.5438,0.17,uu,uu60355827,2019-12-30T20:15:24.010Z,"35km ESE of Rock Springs, Wyoming",earthquake,0.63,1.11,0.251,4,reviewed,uu,uu
+2019-12-30T19:42:21.073Z,65.4517,-153.9323,40.4,2.7,ml,,,,0.98,ak,ak019gqb6lyf,2019-12-30T19:46:18.329Z,"91km WNW of Tanana, Alaska",earthquake,,20.8,,,automatic,ak,ak
+2019-12-30T19:41:56.770Z,66.2826,-157.2465,10,2.7,ml,,98,0.693,0.52,us,us70006sm9,2019-12-30T20:52:51.040Z,"71km SSW of Kobuk, Alaska",earthquake,4.1,2,,,reviewed,us,ak
+2019-12-30T19:36:32.570Z,59.238,-136.2453,4.2,2.6,ml,,,,0.84,ak,ak019gqb5civ,2019-12-30T20:42:49.040Z,"45km W of Haines, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2019-12-30T19:20:16.881Z,35.5742,74.5691,10,4.5,mb,,75,2.198,0.82,us,us70006sly,2019-12-30T20:36:47.281Z,"36km NW of Idgah, Pakistan",earthquake,7.1,1.9,0.085,41,reviewed,us,us
+2019-12-30T19:15:20.730Z,39.7801666,-121.9821701,17.1,2.62,md,16,45,0.1979,0.18,nc,nc73321511,2019-12-30T23:06:03.622Z,"5km NNE of Hamilton City, CA",earthquake,0.57,1.35,0.23,17,automatic,nc,nc
+2019-12-30T19:07:19.100Z,17.9081,-66.836,7,2.51,md,14,216,0.0797,0.18,pr,pr2019364014,2019-12-31T03:09:58.046Z,"10km SE of Guanica, Puerto Rico",earthquake,0.66,0.4,0.25,12,reviewed,pr,pr
+2019-12-30T19:07:15.173Z,61.0107,-152.3527,114.2,2.5,ml,,,,0.52,ak,ak019gqaz3dp,2019-12-30T19:13:08.040Z,"62km NNE of Redoubt Volcano, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-30T18:58:20.268Z,7.2992,-78.6598,10,4.6,mb,,105,4.256,0.5,us,us70006sll,2019-12-30T20:09:11.040Z,"59km WSW of Jaque, Panama",earthquake,9.8,2,0.069,63,reviewed,us,us
+2019-12-30T18:43:36.538Z,28.8748,142.4579,10,4.9,mb,,124,1.788,0.55,us,us70006sla,2019-12-30T19:53:15.040Z,"199km N of Chichi-shima, Japan",earthquake,5.2,1.9,0.047,142,reviewed,us,us
+2019-12-30T18:41:34.900Z,33.5778333,-116.8151667,3.35,2.51,ml,93,15,0.04547,0.23,ci,ci39017831,2019-12-30T19:25:23.123Z,"13km W of Anza, CA",earthquake,0.18,0.59,0.107,26,automatic,ci,ci
+2019-12-30T18:14:24.350Z,65.8266,-150.9495,7.1,2.6,ml,,,,0.66,ak,ak019gqaf753,2019-12-30T19:30:35.040Z,"89km NE of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-30T18:01:41.845Z,42.1919,23.5482,10,4.5,mb,,62,1.819,0.49,us,us70006sk5,2019-12-31T03:45:37.606Z,"15km S of Samokov, Bulgaria",earthquake,5.6,1.9,0.192,8,reviewed,us,us
+2019-12-30T17:49:58.333Z,35.6352,74.6337,16.3,5.1,mww,,43,2.277,0.71,us,us70006sjv,2019-12-30T22:24:40.040Z,"38km NNW of Idgah, Pakistan",earthquake,6.7,3.9,0.078,16,reviewed,us,us
+2019-12-30T17:41:55.820Z,17.8586,-66.8695,11,2.56,md,10,250,0.1169,0.21,pr,pr2019364008,2019-12-30T17:56:04.599Z,"13km SSE of Guanica, Puerto Rico",earthquake,1.2,0.74,0.26,9,reviewed,pr,pr
+2019-12-30T17:18:57.357Z,35.5846,74.611,13.28,5.4,mww,,41,2.224,0.68,us,us70006sj8,2019-12-31T03:27:48.155Z,"34km NW of Idgah, Pakistan",earthquake,6.6,3.9,0.089,12,reviewed,us,us
+2019-12-30T17:12:33.937Z,35.7275,74.4364,10,4.6,mb,,81,2.284,0.65,us,us70006sif,2019-12-30T19:16:52.734Z,"24km SSE of Gilgit, Pakistan",earthquake,7.4,1.9,0.085,41,reviewed,us,us
+2019-12-30T17:00:24.420Z,17.9271,-66.8895,7,2.78,md,14,220,0.0491,0.16,pr,pr2019364007,2019-12-30T17:50:50.040Z,"14km S of Guanica, Puerto Rico",earthquake,0.59,0.29,0.34,10,reviewed,pr,pr
+2019-12-30T16:59:03.575Z,6.6411,94.3691,97.59,4.9,mww,,89,2.923,0.98,us,us70006si5,2019-12-30T17:55:34.040Z,"133km NW of Sabang, Indonesia",earthquake,8.4,6.6,0.078,16,reviewed,us,us
+2019-12-30T16:12:14.805Z,59.0739,-147.465,4,3.1,ml,,,,0.54,ak,ak019gq97vj5,2019-12-30T16:24:21.228Z,"76km WSW of Middleton Island, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2019-12-30T16:06:27.605Z,61.3546,-150.1077,31.9,3,ml,,,,0.78,ak,ak019gq96lu3,2019-12-30T22:09:45.040Z,"18km NW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-30T16:03:27.880Z,33.2236667,-116.7491667,7.98,2.58,ml,85,24,0.01468,0.22,ci,ci39017695,2019-12-30T22:59:22.979Z,"2km SSE of Lake Henshaw, CA",earthquake,0.2,0.59,0.172,26,automatic,ci,ci
+2019-12-30T14:37:40.076Z,65.7968,-150.4884,13.8,2.5,ml,,,,0.77,ak,ak019gq86ex0,2019-12-30T14:50:58.487Z,"88km N of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-30T14:36:56.071Z,33.8749,136.9595,368.81,4.1,mb,,132,1.291,0.65,us,us70006sh0,2019-12-30T22:01:26.040Z,"68km S of Toba, Japan",earthquake,10.5,7.8,0.086,37,reviewed,us,us
+2019-12-30T14:04:39.006Z,65.7959,-150.8731,5.5,3.4,ml,,,,0.57,ak,ak019gq7zc59,2019-12-30T21:59:15.040Z,"89km NE of Tanana, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2019-12-30T13:49:45.224Z,27.4014,56.5176,10,5,mww,,70,2.462,0.55,us,us70006sg8,2019-12-30T17:52:50.123Z,"33km NE of Bandar 'Abbas, Iran",earthquake,5.6,1.9,0.08,15,reviewed,us,us
+2019-12-30T13:43:02.664Z,63.2856,-151.5546,0,2.9,ml,,,,1.03,ak,ak019gq7m2zb,2019-12-30T14:33:21.040Z,"130km NW of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-30T13:37:19.672Z,60.8478,-149.7487,19.8,2.5,ml,,,,0.9,ak,ak019gq7kxo8,2019-12-30T14:27:15.040Z,"42km SSE of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-30T13:26:18.940Z,38.796833,-122.7791672,3.71,2.53,md,41,60,0.007751,0.06,nc,nc73321416,2019-12-30T18:02:35.072Z,"3km NW of The Geysers, CA",earthquake,0.15,0.27,0.16,37,automatic,nc,nc
+2019-12-30T13:23:01.024Z,65.7986,-150.8709,7.2,3.7,ml,,,,0.62,ak,ak019gq7hw5n,2019-12-30T18:24:40.040Z,"89km NE of Tanana, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-12-30T12:00:23.740Z,19.1668339,-155.4481659,34.14,2.68,ml,12,209,0.1759,0.11,hv,hv71309382,2019-12-30T12:06:03.710Z,"5km SE of Pahala, Hawaii",earthquake,1.45,1.16,3.93,9,automatic,hv,hv
+2019-12-30T10:41:05.660Z,35.8668333,-117.7025,6.75,2.91,ml,37,50,0.07714,0.15,ci,ci39017359,2019-12-30T17:34:25.140Z,"20km ESE of Little Lake, CA",earthquake,0.14,0.39,0.189,76,reviewed,ci,ci
+2019-12-30T08:49:38.831Z,65.8092,-150.6416,12.7,2.7,ml,,,,0.63,ak,ak019gq4odnv,2019-12-30T08:54:02.896Z,"90km N of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-30T06:16:52.228Z,-8.3909,-76.1617,127.11,4.6,mb,,135,3.636,0.66,us,us70006scn,2019-12-30T06:41:24.040Z,"34km ENE of Uchiza, Peru",earthquake,11,6.2,0.048,128,reviewed,us,us
+2019-12-30T06:06:13.670Z,18.6823,-68.952,130,3.67,md,9,229,0.6518,0.46,pr,pr2019364050,2019-12-31T03:08:39.435Z,"10km NNE of Guaymate, Dominican Republic",earthquake,5.75,2.52,0.18,7,reviewed,pr,pr
+2019-12-30T06:05:07.648Z,68.7152,-146.5008,0,3.1,ml,,,,0.34,ak,ak019gq380jw,2019-12-30T08:07:24.040Z,"76km NNW of Arctic Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-30T05:57:55.689Z,36.87433333,-97.91333333,7.35,3.73,ml,87,80,0,0.18,ok,ok2019znrk,2019-12-31T03:55:35.756Z,"16km NW of Medford, Oklahoma",earthquake,,0.5,0.22,31,reviewed,ok,ok
+2019-12-30T05:33:17.330Z,19.4106667,-155.3075,3.2,2.87,ml,25,94,0.008138,0.1,hv,hv71309047,2019-12-30T21:59:04.910Z,"7km WSW of Volcano, Hawaii",earthquake,0.27,0.34,0.185,38,reviewed,hv,hv
+2019-12-30T05:28:41.340Z,18.0936,-68.8031,10,3.25,md,8,343,1.6957,0.54,pr,pr2019364048,2019-12-31T03:27:29.945Z,"37km SSW of Boca de Yuma, Dominican Republic",earthquake,7.5,31.61,0.3,7,reviewed,pr,pr
+2019-12-30T05:13:03.160Z,19.2905,-67.3178,13,2.96,md,8,318,0.8485,0.23,pr,pr2019364046,2019-12-31T01:41:11.104Z,"91km NNW of San Antonio, Puerto Rico",earthquake,10.02,14.13,0.15,7,reviewed,pr,pr
+2019-12-30T04:16:40.150Z,36.6523323,-121.2724991,5.46,2.76,md,46,66,0.05351,0.1,nc,nc73321286,2019-12-30T16:43:36.821Z,"16km SSE of Tres Pinos, CA",earthquake,0.18,0.78,0.17,50,automatic,nc,nc
+2019-12-30T04:11:09.244Z,27.871,142.8735,10.88,5.2,mww,,64,0.985,0.81,us,us70006sbu,2019-12-30T04:28:46.040Z,"108km NE of Chichi-shima, Japan",earthquake,7.2,4.3,0.08,15,reviewed,us,us
+2019-12-30T04:01:33.204Z,19.7415,-105.2979,35,4.7,mb,,177,4.654,1.4,us,us70006sbp,2019-12-31T01:13:55.256Z,"21km SSW of Tomatlan, Mexico",earthquake,10,2,0.027,423,reviewed,us,us
+2019-12-30T03:32:08.520Z,18.4713,-67.5645,19,2.73,md,10,323,0.1218,0.19,pr,pr2019364037,2019-12-30T23:57:08.750Z,"36km WNW of Rincon, Puerto Rico",earthquake,2.88,0.48,0.29,8,reviewed,pr,pr
+2019-12-30T03:13:43.010Z,17.9245,-68.5065,94,2.84,md,3,348,1.3993,0.02,pr,pr2019364047,2019-12-31T01:33:51.224Z,"51km SSE of Boca de Yuma, Dominican Republic",earthquake,4.08,3.69,0.47,2,reviewed,pr,pr
+2019-12-30T03:01:14.324Z,32.0376,-103.7621,5,2.5,ml,,41,0.246,0.21,us,us70006sbn,2019-12-30T05:00:40.040Z,"39km NNW of Mentone, Texas",earthquake,0.9,1.9,0.105,12,reviewed,us,us
+2019-12-30T02:23:56.040Z,19.068,-67.7558,38,2.68,md,7,330,0.881,0.24,pr,pr2019364032,2019-12-30T22:52:24.040Z,"70km NW of San Antonio, Puerto Rico",earthquake,2.09,12.85,0.05,3,reviewed,pr,pr
+2019-12-30T02:02:21.711Z,65.8708,-148.0923,60.2,2.5,ml,,,,0.56,ak,ak019gq0to9w,2019-12-30T04:04:35.818Z,"113km N of College, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2019-12-30T02:02:00.085Z,66.1848,-148.0259,37,2.5,ml,,,,0.59,ak,ak019gq0tj8u,2019-12-30T04:08:21.819Z,"130km WSW of Fort Yukon, Alaska",earthquake,,6.6,,,automatic,ak,ak
+2019-12-30T01:59:00.360Z,17.8488,-66.8143,4,2.97,md,9,257,0.142,0.22,pr,pr2019364001,2019-12-30T02:34:25.708Z,"16km SE of Guanica, Puerto Rico",earthquake,1.72,0.86,0.24,8,reviewed,pr,pr
+2019-12-30T01:45:36.550Z,17.915,-66.8675,5,3.12,md,14,215,0.0612,0.08,pr,pr2019364000,2019-12-30T15:00:38.169Z,"12km SSE of Guanica, Puerto Rico",earthquake,0.62,0.36,0.32,12,reviewed,pr,pr
+2019-12-30T01:36:21.290Z,19.2456,-66.5431,73,2.76,md,3,355,1.1996,0.17,pr,pr2019364023,2019-12-30T21:05:22.740Z,"86km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,10.24,11.07,0.21,3,reviewed,pr,pr
+2019-12-30T01:27:53.960Z,19.253,-67.5668,10,2.89,md,5,339,0.9081,0.44,pr,pr2019364030,2019-12-30T21:51:15.927Z,"97km NNW of San Antonio, Puerto Rico",earthquake,5.88,31.61,0.09,4,reviewed,pr,pr
+2019-12-30T01:19:04.380Z,38.0806656,-118.8611679,0.68,2.95,md,31,160,0.397,0.07,nc,nc73321231,2019-12-31T02:08:44.969Z,"20km SE of Bodie, CA",earthquake,0.44,8.36,0.2,26,automatic,nc,nc
+2019-12-30T01:13:44.330Z,19.0218,-67.7195,63,2.61,md,4,328,1.057,0.26,pr,pr2019364022,2019-12-30T21:04:35.740Z,"87km NE of Punta Cana, Dominican Republic",earthquake,5.86,13.78,0.26,4,reviewed,pr,pr
+2019-12-30T00:52:30.193Z,35.8128,77.6114,10,4.1,mb,,111,4.176,0.84,us,us70006sb0,2019-12-30T18:24:24.718Z,"126km NE of Thang, India",earthquake,9.2,1.9,0.093,32,reviewed,us,us
+2019-12-30T00:32:52.238Z,27.8138,142.8402,11.04,4.9,mb,,71,0.922,0.6,us,us70006sb2,2019-12-30T01:25:56.040Z,"101km NE of Chichi-shima, Japan",earthquake,6.9,3.7,0.062,82,reviewed,us,us
+2019-12-30T00:06:11.670Z,19.3875,-66.9536,50,2.73,md,3,357,1.2189,0.09,pr,pr2019364018,2019-12-30T19:48:24.175Z,"98km N of Isabela, Puerto Rico",earthquake,7.13,7.67,0.4,3,reviewed,pr,pr
+2019-12-30T00:02:27.540Z,19.0161,-64.9755,29,3.4,md,7,335,1.2355,0.29,pr,pr2019364016,2019-12-30T21:45:46.040Z,"70km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.33,21.65,0.13,6,reviewed,pr,pr
+2019-12-29T23:30:14.140Z,17.8945,-66.8098,6,3.2,md,13,219,0.1064,0.25,pr,pr2019363124,2019-12-30T00:44:35.982Z,"10km S of Indios, Puerto Rico",earthquake,1.05,0.65,0.26,11,reviewed,pr,pr
+2019-12-29T23:25:26.400Z,19.2328,-67.6386,23,2.74,md,7,329,0.9294,0.27,pr,pr2019363198,2019-12-30T21:38:53.040Z,"86km NW of San Antonio, Puerto Rico",earthquake,2.31,22.18,0.36,7,reviewed,pr,pr
+2019-12-29T22:19:43.460Z,19.0898,-67.7228,50,2.98,md,10,319,0.7462,0.43,pr,pr2019363195,2019-12-30T18:42:17.532Z,"91km NE of Punta Cana, Dominican Republic",earthquake,4.36,15.34,0.32,8,reviewed,pr,pr
+2019-12-29T22:05:35.250Z,19.0725002,-155.2348328,28.5,2.57,ml,51,250,0.2079,0.12,hv,hv71308417,2019-12-29T22:11:14.670Z,"29km ESE of Pahala, Hawaii",earthquake,0.83,1.29,5.22,3,automatic,hv,hv
+2019-12-29T22:00:06.510Z,19.221,-67.6276,39,2.97,md,6,329,1.1773,0.38,pr,pr2019363191,2019-12-30T17:32:47.815Z,"98km NW of San Antonio, Puerto Rico",earthquake,4.09,24.11,0.17,4,reviewed,pr,pr
+2019-12-29T21:50:00.630Z,17.9076,-66.8508,7,2.74,md,14,217,0.0732,0.12,pr,pr2019363117,2019-12-30T17:33:01.039Z,"13km SSE of Guanica, Puerto Rico",earthquake,0.58,0.33,0.34,13,reviewed,pr,pr
+2019-12-29T21:33:00.026Z,69.6573,-144.3002,2.3,3.4,ml,,,,0.64,ak,ak019goos2hj,2019-12-30T00:09:30.040Z,"58km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2019-12-29T20:43:54.320Z,17.9113,-66.829,7,2.61,md,14,214,0.0812,0.12,pr,pr2019363106,2019-12-29T21:38:24.721Z,"9km S of Indios, Puerto Rico",earthquake,0.69,0.4,0.38,14,reviewed,pr,pr
+2019-12-29T19:24:57.850Z,19.3331,-67.506,30,2.73,md,5,339,0.9514,0.24,pr,pr2019363177,2019-12-30T14:35:39.804Z,"102km NNW of San Antonio, Puerto Rico",earthquake,3.49,16.84,0.08,4,reviewed,pr,pr
+2019-12-29T18:24:41.589Z,-52.8544,11.3526,10,5.3,mww,,89,19.897,1.07,us,us70006s89,2019-12-30T18:59:40.040Z,"Southwest of Africa",earthquake,13.1,1.8,0.073,18,reviewed,us,us
+2019-12-29T17:55:23.945Z,-22.3258,-68.851,112.63,4.3,mb,,77,0.639,0.87,us,us70006s85,2019-12-30T08:18:27.436Z,"17km NNE of Calama, Chile",earthquake,5.9,6.3,0.375,2,reviewed,us,us
+2019-12-29T17:03:50.460Z,17.9031,-66.8555,3,3.4,md,14,216,0.0758,0.24,pr,pr2019363055,2019-12-30T00:45:26.764Z,"14km SSE of Guanica, Puerto Rico",earthquake,0.85,0.54,0.2,10,reviewed,pr,pr
+2019-12-29T16:56:04.632Z,66.3328,-157.2433,1,2.5,ml,,,,0.55,ak,ak019golxxej,2019-12-29T20:10:03.040Z,"66km SSW of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-29T16:29:20.446Z,31.7405,-104.1466,5,2.7,mb_lg,,64,0.216,0.28,us,us70006s7r,2019-12-29T16:57:54.040Z,"52km W of Mentone, Texas",earthquake,1.3,1.9,0.111,35,reviewed,us,us
+2019-12-29T16:24:45.775Z,-6.3622,154.9449,35,4.9,mb,,100,8.282,0.82,us,us70006s7s,2019-12-29T16:48:53.040Z,"59km W of Panguna, Papua New Guinea",earthquake,10.2,2,0.078,51,reviewed,us,us
+2019-12-29T16:06:25.247Z,65.2665,-163.0021,10,2.8,ml,,79,0.3,0.43,us,us70006s7p,2019-12-29T17:04:24.040Z,"142km NE of Nome, Alaska",earthquake,4.7,2,0.06,36,reviewed,us,us
+2019-12-29T14:39:27.181Z,51.994,153.6067,388.2,4.4,mb,,129,2.736,0.6,us,us70006s77,2019-12-29T15:23:50.040Z,"208km WNW of Ozernovskiy, Russia",earthquake,13,9.1,0.04,178,reviewed,us,us
+2019-12-29T14:37:44.770Z,63.1081,-151.4653,1,2.7,ml,,,,0.76,ak,ak019gokn2ow,2019-12-29T15:07:42.040Z,"111km NW of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-29T14:31:25.289Z,58.8545,-152.3654,36.8,2.6,ml,,,,0.53,ak,ak019goklqvi,2019-12-29T20:04:09.040Z,"99km SSW of Homer, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2019-12-29T14:23:29.990Z,17.8966,-66.5895,11,2.66,md,12,210,0.1471,0.24,pr,pr2019363155,2019-12-30T12:10:53.470Z,"12km SSE of Ponce, Puerto Rico",earthquake,0.68,0.76,0.12,9,reviewed,pr,pr
+2019-12-29T14:12:18.980Z,18.868,-65.4493,27,2.65,md,4,330,0.8286,0.18,pr,pr2019363169,2019-12-30T11:36:56.904Z,"61km NNE of Luquillo, Puerto Rico",earthquake,2.14,15.28,0.34,4,reviewed,pr,pr
+2019-12-29T14:06:19.102Z,-24.3121,-68.9152,110.59,4,ml,,136,1.046,0.72,us,us70006s70,2019-12-29T20:02:23.040Z,"167km ESE of Antofagasta, Chile",earthquake,6.8,15.1,0.059,38,reviewed,us,us
+2019-12-29T13:59:02.340Z,-5.5339,151.7363,35,5.1,mb,,91,5.57,0.78,us,us70006s6z,2019-12-29T15:45:00.040Z,"143km SSW of Kokopo, Papua New Guinea",earthquake,9.6,2,0.047,148,reviewed,us,us
+2019-12-29T13:18:06.464Z,4.4091,125.1504,65.42,4.7,mb,,88,2.677,1.16,us,us70006s6j,2019-12-29T14:11:18.040Z,"115km SSW of Sarangani, Philippines",earthquake,8.4,8.2,0.09,38,reviewed,us,us
+2019-12-29T12:03:55.928Z,4.6257,125.3181,49.65,4.8,mb,,94,2.441,0.64,us,us70006s64,2019-12-29T12:52:40.040Z,"87km S of Sarangani, Philippines",earthquake,5.6,7.7,0.069,65,reviewed,us,us
+2019-12-29T11:26:44.610Z,17.9073,-66.8258,6,3.01,md,13,215,0.0863,0.1,pr,pr2019363033,2019-12-29T11:56:36.150Z,"9km S of Indios, Puerto Rico",earthquake,0.57,0.37,0.11,11,reviewed,pr,pr
+2019-12-29T11:25:23.524Z,55.1467,160.6628,118.92,4.5,mb,,79,2.435,0.47,us,us70006s5t,2019-12-29T13:13:21.040Z,"151km SE of Esso, Russia",earthquake,10.4,7.6,0.042,169,reviewed,us,us
+2019-12-29T11:21:54.840Z,19.2285,-67.7888,32,3.16,md,12,319,0.8991,0.51,pr,pr2019363157,2019-12-30T11:30:23.736Z,"96km NE of Punta Cana, Dominican Republic",earthquake,3.43,30.87,0.29,12,reviewed,pr,pr
+2019-12-29T11:20:09.383Z,40.3223,42.1121,10,4.4,mb,,73,0.804,0.61,us,us70006s5q,2019-12-29T14:57:38.339Z,"20km E of Narman, Turkey",earthquake,4.8,1.9,0.13,17,reviewed,us,us
+2019-12-29T11:19:10.510Z,17.898,-66.867,6,2.71,md,14,221,0.0781,0.14,pr,pr2019363032,2019-12-29T11:53:25.040Z,"16km SSE of Guanica, Puerto Rico",earthquake,0.74,0.37,0.41,13,reviewed,pr,pr
+2019-12-29T10:28:31.050Z,17.916,-66.8335,6,2.73,md,10,226,0.0747,0.26,pr,pr2019363153,2019-12-30T09:53:40.839Z,"8km S of Indios, Puerto Rico",earthquake,1.09,0.62,0.28,8,reviewed,pr,pr
+2019-12-29T10:22:07.551Z,13.8109,-92.8478,10,4.4,mb,,199,1.324,0.8,us,us70006s5i,2019-12-29T12:03:05.040Z,"104km SW of Ocos, Guatemala",earthquake,9.6,2,0.062,76,reviewed,us,us
+2019-12-29T10:07:09.668Z,55.4267,-162.9891,197.1,2.9,ml,,,,0.61,ak,ak019goi2u8m,2019-12-29T10:15:57.962Z,"31km NNW of Cold Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2019-12-29T09:16:50.590Z,18.3636,-68.298,69,2.76,md,4,342,1.2266,0.44,pr,pr2019363145,2019-12-30T07:25:57.128Z,"26km SSE of Punta Cana, Dominican Republic",earthquake,7.93,11.01,0.23,4,reviewed,pr,pr
+2019-12-29T09:12:14.074Z,4.6441,125.3147,10,5.2,mww,,37,2.424,1.08,us,us70006s54,2019-12-29T09:29:50.040Z,"85km S of Sarangani, Philippines",earthquake,6.7,1.8,0.078,16,reviewed,us,us
+2019-12-29T09:09:45.250Z,19.5093327,-155.6618347,0.55,2.72,ml,50,44,0.03891,0.28,hv,hv71307497,2019-12-29T09:33:16.040Z,"22km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.39,1.23,3.14,29,automatic,hv,hv
+2019-12-29T09:03:29.860Z,19.3483,-67.8033,8,3.47,md,7,329,1.1202,0.33,pr,pr2019363139,2019-12-30T07:21:50.761Z,"105km NE of Punta Cana, Dominican Republic",earthquake,15.53,21.77,0.09,6,reviewed,pr,pr
+2019-12-29T08:11:13.090Z,17.8905,-66.8208,8,2.54,md,12,221,0.1028,0.15,pr,pr2019363140,2019-12-30T09:03:11.842Z,"11km S of Indios, Puerto Rico",earthquake,0.79,1.27,0.33,8,reviewed,pr,pr
+2019-12-29T08:08:37.647Z,61.35,-150.2594,35.4,2.6,ml,,,,0.65,ak,ak019gogw8o8,2019-12-29T19:24:38.342Z,"24km NW of Anchorage, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2019-12-29T08:00:13.590Z,19.129,-67.1423,8,2.64,md,3,357,0.9549,0.27,pr,pr2019363137,2019-12-30T04:12:15.541Z,"70km N of Isabela, Puerto Rico",earthquake,18.75,19.87,0.28,3,reviewed,pr,pr
+2019-12-29T07:57:58.000Z,17.883,-66.8498,6,2.74,md,12,224,0.0967,0.17,pr,pr2019363019,2019-12-29T08:26:24.228Z,"11km SSE of Guanica, Puerto Rico",earthquake,0.77,0.36,0.26,11,reviewed,pr,pr
+2019-12-29T07:20:27.230Z,17.91,-66.8623,5,2.59,md,12,228,0.0673,0.17,pr,pr2019363018,2019-12-29T11:25:31.445Z,"8km SE of Guanica, Puerto Rico",earthquake,0.86,0.53,0.46,12,reviewed,pr,pr
+2019-12-29T06:34:25.467Z,3.1424,123.8263,414.47,4.5,mb,,89,3.65,0.91,us,us70006s4e,2019-12-29T07:06:02.040Z,"215km NNW of Manado, Indonesia",earthquake,7.7,9.8,0.096,32,reviewed,us,us
+2019-12-29T06:33:40.828Z,-21.0786,-67.6947,219.41,4.1,mb,,48,1.608,0.82,us,us70006s4c,2019-12-29T07:18:56.040Z,"113km SW of Uyuni, Bolivia",earthquake,6.8,10.1,0.197,7,reviewed,us,us
+2019-12-29T06:33:10.630Z,17.9231,-66.8718,6,2.74,md,14,212,0.0525,0.15,pr,pr2019363017,2019-12-29T07:59:24.526Z,"6km SE of Guanica, Puerto Rico",earthquake,0.57,0.32,0.43,14,reviewed,pr,pr
+2019-12-29T06:28:49.870Z,17.9163,-66.8815,5,2.94,md,14,215,0.0588,0.21,pr,pr2019363016,2019-12-29T09:19:32.728Z,"13km SSE of Guanica, Puerto Rico",earthquake,0.98,0.58,0.37,13,reviewed,pr,pr
+2019-12-29T06:08:46.853Z,31.6448,-104.3132,5,2.9,mb_lg,,67,0.374,0.29,us,us70006s47,2019-12-29T06:32:30.040Z,"68km W of Mentone, Texas",earthquake,1,1.9,0.079,61,reviewed,us,us
+2019-12-29T06:07:33.840Z,51.547,-178.4621667,10.29,3.06,ml,13,199,,0.23,av,av62117271,2019-12-30T19:11:16.970Z,"43km SSW of Tanaga Volcano, Alaska",earthquake,0.78,1.63,0.256,14,reviewed,av,av
+2019-12-29T05:49:07.820Z,17.925,-66.863,4,3.55,md,14,211,0.0527,0.17,pr,pr2019363010,2019-12-29T17:18:27.705Z,"12km SE of Guanica, Puerto Rico",earthquake,0.71,0.41,0.23,9,reviewed,pr,pr
+2019-12-29T05:39:01.180Z,58.9577,-154.4192,129.4,2.7,ml,,,,0.78,ak,ak019gofaid2,2019-12-29T05:44:06.429Z,"92km SSE of Old Iliamna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-29T04:40:27.410Z,19.2706,-67.8411,10,3.11,md,7,332,1.0852,0.43,pr,pr2019363075,2019-12-29T19:14:03.400Z,"96km NE of Punta Cana, Dominican Republic",earthquake,3.95,31.61,0.15,7,reviewed,pr,pr
+2019-12-29T04:27:09.519Z,61.6414,-150.9081,48.9,2.7,ml,,,,0.64,ak,ak019goemir8,2019-12-29T05:06:53.040Z,"47km WSW of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-29T03:58:00.700Z,17.917,-66.8326,6,2.94,md,11,209,0.0745,0.23,pr,pr2019363014,2019-12-29T07:28:21.461Z,"8km S of Indios, Puerto Rico",earthquake,0.87,0.62,0.35,10,reviewed,pr,pr
+2019-12-29T03:36:13.332Z,60.3263,-137.9538,0,2.5,ml,,,,1.01,ak,ak019goe30s9,2019-12-29T03:45:48.915Z,"53km SSW of Haines Junction, Canada",earthquake,,0.6,,,automatic,ak,ak
+2019-12-29T03:31:13.630Z,17.9018,-66.8286,5,2.77,md,6,233,0.0891,0.09,pr,pr2019363067,2019-12-29T20:07:00.557Z,"10km S of Indios, Puerto Rico",earthquake,0.83,0.47,0.25,2,reviewed,pr,pr
+2019-12-29T02:55:08.060Z,17.9236,-66.8778,6,2.55,md,9,222,0.0515,0.05,pr,pr2019363040,2019-12-29T13:57:48.853Z,"6km SSE of Guanica, Puerto Rico",earthquake,0.75,0.26,0.34,7,reviewed,pr,pr
+2019-12-29T02:50:42.440Z,17.9046,-66.8208,6,2.5,md,5,231,0.0915,0.12,pr,pr2019363038,2019-12-29T13:56:04.300Z,"9km S of Indios, Puerto Rico",earthquake,0.95,0.42,0.3,5,reviewed,pr,pr
+2019-12-29T02:43:01.650Z,17.9425,-66.8626,4,3.05,md,14,201,0.0366,0.27,pr,pr2019363012,2019-12-29T07:08:49.925Z,"4km SE of Maria Antonia, Puerto Rico",earthquake,0.91,0.65,0.3,10,reviewed,pr,pr
+2019-12-29T02:37:49.960Z,17.8793,-66.8246,6,2.82,md,14,224,0.1103,0.13,pr,pr2019363013,2019-12-29T07:25:48.655Z,"12km S of Indios, Puerto Rico",earthquake,0.75,0.36,0.42,14,reviewed,pr,pr
+2019-12-29T02:30:57.230Z,17.9123,-66.875,6,2.82,md,14,217,0.0629,0.11,pr,pr2019363011,2019-12-29T07:26:02.687Z,"7km SSE of Guanica, Puerto Rico",earthquake,0.59,0.32,0.43,14,reviewed,pr,pr
+2019-12-29T02:02:06.270Z,17.9156,-66.8225,6,2.73,md,11,225,0.0822,0.2,pr,pr2019363009,2019-12-29T06:37:37.971Z,"8km S of Indios, Puerto Rico",earthquake,0.94,0.58,0.44,8,reviewed,pr,pr
+2019-12-29T01:56:43.680Z,17.9088,-66.8203,5,2.51,md,11,230,0.0887,0.2,pr,pr2019363053,2019-12-29T18:35:29.420Z,"9km S of Indios, Puerto Rico",earthquake,0.92,0.55,0.3,10,reviewed,pr,pr
+2019-12-29T01:46:40.540Z,38.0863342,-118.8363342,3.47,2.79,ml,33,161,0.3359,0.06,nc,nc73320906,2019-12-30T02:08:06.550Z,"21km SE of Bodie, CA",earthquake,0.39,3.83,0.183,11,automatic,nc,nc
+2019-12-29T01:44:25.526Z,29.3174,143.0572,10,4.9,mb,,138,2.343,0.83,us,us70006s2x,2019-12-29T02:17:47.040Z,"260km NNE of Chichi-shima, Japan",earthquake,11,1.9,0.108,27,reviewed,us,us
+2019-12-29T01:33:21.700Z,17.9338,-66.878,6,2.86,md,13,208,0.0413,0.1,pr,pr2019363008,2019-12-29T06:33:55.872Z,"5km SE of Guanica, Puerto Rico",earthquake,0.54,0.19,0.33,13,reviewed,pr,pr
+2019-12-29T01:21:14.590Z,17.9308,-66.8363,3,4.7,ml,17,205,0.0617,0.18,pr,pr2019363003,2019-12-29T17:34:30.955Z,"11km S of Indios, Puerto Rico",earthquake,0.86,0.53,0.29,13,reviewed,pr,pr
+2019-12-29T01:13:25.160Z,-0.4979,-91.253,10,4.5,mb,,99,0.982,0.83,us,us70006s2g,2019-12-29T02:38:39.040Z,"59km NNW of Puerto Villamil, Ecuador",earthquake,9.4,1.9,0.075,53,reviewed,us,us
+2019-12-29T01:06:00.130Z,17.8846,-66.864,6,5,ml,18,222,0.1992,0.24,pr,pr2019363002,2019-12-31T03:19:38.350Z,"10km S of Indios, Puerto Rico",earthquake,1.36,0.96,0,0,reviewed,pr,pr
+2019-12-29T00:50:34.510Z,17.9018,-66.8708,4,2.83,md,14,221,0.0738,0.27,pr,pr2019363007,2019-12-29T10:15:14.549Z,"8km SSE of Guanica, Puerto Rico",earthquake,1.13,0.58,0.37,13,reviewed,pr,pr
+2019-12-29T00:36:30.470Z,17.9501,-66.8565,6,2.89,md,12,206,0.0338,0.32,pr,pr2019363020,2019-12-29T10:15:00.713Z,"4km SE of Maria Antonia, Puerto Rico",earthquake,1.08,0.78,0.37,9,reviewed,pr,pr
+2019-12-29T00:34:01.740Z,17.9338,-66.8535,6,3.5,ml,14,205,0.0486,0.18,pr,pr2019363001,2019-12-29T17:11:28.355Z,"12km SE of Guanica, Puerto Rico",earthquake,0.76,0.43,0.22,8,reviewed,pr,pr
+2019-12-29T00:16:50.490Z,17.93,-66.8748,6,2.6,md,14,209,0.0453,0.14,pr,pr2019363006,2019-12-29T05:34:38.624Z,"5km SE of Guanica, Puerto Rico",earthquake,0.51,0.22,0.35,13,reviewed,pr,pr
+2019-12-29T00:11:11.871Z,-14.9121,-71.9027,133.31,4.6,mb,,144,3.535,0.97,us,us70006s1l,2019-12-29T00:34:00.040Z,"55km SSE of Santo Tomas, Peru",earthquake,11,8.9,0.087,40,reviewed,us,us
+2019-12-29T00:06:39.680Z,17.9243,-66.8418,6,3.86,md,15,208,0.0631,0.27,pr,pr2019363000,2019-12-29T17:10:38.325Z,"13km S of Indios, Puerto Rico",earthquake,1.06,0.68,0.22,11,reviewed,pr,pr
+2019-12-29T00:00:20.850Z,17.8988,-66.8606,6,2.62,md,13,220,0.0785,0.21,pr,pr2019363004,2019-12-29T04:42:29.138Z,"9km SSE of Guanica, Puerto Rico",earthquake,0.74,0.42,0.44,12,reviewed,pr,pr
+2019-12-28T23:35:59.460Z,17.9035,-66.8483,6,3.65,ml,14,218,0.078,0.13,pr,pr2019362025,2019-12-29T17:08:35.675Z,"11km S of Indios, Puerto Rico",earthquake,0.74,0.38,0.28,14,reviewed,pr,pr
+2019-12-28T23:25:35.700Z,17.9255,-66.8638,6,2.72,md,10,221,0.0519,0.25,pr,pr2019362028,2019-12-29T04:24:56.836Z,"6km SE of Guanica, Puerto Rico",earthquake,0.89,0.47,0.56,8,reviewed,pr,pr
+2019-12-28T23:18:23.530Z,17.9443,-66.8745,7,2.63,md,9,211,0.0312,0.15,pr,pr2019362027,2019-12-29T04:25:12.547Z,"4km SE of Guanica, Puerto Rico",earthquake,0.89,0.31,0.29,7,reviewed,pr,pr
+2019-12-28T22:49:16.082Z,-30.3842,-177.6075,10,5.1,mb,,108,1.169,1.12,us,us70006s0k,2019-12-28T23:28:54.948Z,"127km SSE of Raoul Island, New Zealand",earthquake,9.7,1.9,0.082,49,reviewed,us,us
+2019-12-28T22:46:26.050Z,17.9146,-66.852,7,2.95,md,14,214,0.0663,0.13,pr,pr2019362026,2019-12-29T04:22:40.659Z,"10km SSE of Guanica, Puerto Rico",earthquake,0.78,0.36,0.44,13,reviewed,pr,pr
+2019-12-28T22:40:02.523Z,-33.0776,-70.2349,111.86,4.4,mb,,87,0.337,0.26,us,us70006s0c,2019-12-29T05:10:26.529Z,"43km SE of Los Andes, Chile",earthquake,5.6,5.2,0.189,8,reviewed,us,us
+2019-12-28T22:35:37.830Z,17.9371,-66.8661,6,4.7,ml,17,204,0.0402,0.23,pr,pr2019362024,2019-12-29T01:02:28.351Z,"5km SE of Guanica, Puerto Rico",earthquake,1.02,0.58,0.41,13,reviewed,pr,pr
+2019-12-28T22:29:38.811Z,39.014,74.802,10,4.5,mb,,67,2.373,1,us,us70006s04,2019-12-29T05:39:57.040Z,"107km E of Karakul, Tajikistan",earthquake,6.1,1.8,0.118,21,reviewed,us,us
+2019-12-28T22:16:04.615Z,69.1316,-144.6906,1.51,2.7,ml,,148,0.63,0.7,us,us70006s00,2019-12-29T03:35:29.040Z,"117km NNE of Arctic Village, Alaska",earthquake,1.9,9.2,0.04,82,reviewed,us,us
+2019-12-28T21:52:50.600Z,19.1766,-67.2043,24,3.09,md,4,337,0.7152,0.42,pr,pr2019362023,2019-12-29T03:59:52.646Z,"76km N of San Antonio, Puerto Rico",earthquake,7.58,27.94,0.04,3,reviewed,pr,pr
+2019-12-28T21:34:07.940Z,38.282,23.3984,19.35,4.2,mb,,69,1.605,0.87,us,us70006rzm,2019-12-30T10:15:28.132Z,"8km SE of Thivai, Greece",earthquake,5.5,2.8,0.147,13,reviewed,us,us
+2019-12-28T21:34:05.170Z,18.8486671,-155.2234955,9.08,2.58,ml,28,266,0.3796,0.16,hv,hv71306677,2019-12-29T03:42:01.040Z,"47km SE of Pahala, Hawaii",earthquake,1.18,0.82,0.1,4,automatic,hv,hv
+2019-12-28T21:00:26.765Z,-19.528,-177.7772,405.59,4.2,mb,,85,4.333,1.15,us,us70006rzq,2019-12-28T22:39:54.040Z,"157km NE of Ndoi Island, Fiji",earthquake,11.9,7,0.106,25,reviewed,us,us
+2019-12-28T20:07:32.688Z,41.9975,-126.1655,10,2.7,ml,,246,1.459,0.58,us,us70006rz1,2019-12-28T22:18:27.040Z,"151km WSW of Gold Beach, Oregon",earthquake,8.9,2,0.041,80,reviewed,us,us
+2019-12-28T19:52:09.880Z,19.3301,-64.8876,33,3.63,md,10,336,1.5282,0.07,pr,pr2019362021,2019-12-29T05:25:51.040Z,"101km N of Road Town, British Virgin Islands",earthquake,1.44,9.55,0.08,7,reviewed,pr,pr
+2019-12-28T19:00:26.790Z,17.8825,-66.5861,8,2.76,md,14,213,0.1616,0.16,pr,pr2019362018,2019-12-28T23:37:16.061Z,"16km SSW of Potala Pastillo, Puerto Rico",earthquake,0.66,0.97,0.43,13,reviewed,pr,pr
+2019-12-28T18:53:19.110Z,19.118,-67.948,26,3.24,md,13,326,0.8706,0.49,pr,pr2019362017,2019-12-28T21:40:06.040Z,"85km NE of Punta Cana, Dominican Republic",earthquake,3.19,33.02,0.33,10,reviewed,pr,pr
+2019-12-28T18:49:56.239Z,-21.7642,173.4062,52.09,4.8,mb,,123,5.587,0.69,us,us70006rye,2019-12-28T19:08:09.040Z,"121km W of Ceva-i-Ra, Fiji",earthquake,7.8,5.7,0.089,43,reviewed,us,us
+2019-12-28T18:47:12.958Z,-21.7571,173.5327,36.02,4.4,mb,,270,5.704,0.63,us,us70006ryi,2019-12-28T19:21:21.040Z,"108km W of Ceva-i-Ra, Fiji",earthquake,21.7,14.8,0.189,9,reviewed,us,us
+2019-12-28T18:25:44.849Z,1.4476,128.5553,59.31,5,mb,,45,1.364,0.9,us,us70006ry8,2019-12-28T18:44:48.040Z,"68km ESE of Tobelo, Indonesia",earthquake,6.1,7.1,0.054,111,reviewed,us,us
+2019-12-28T17:23:32.020Z,33.9266667,-117.8765,8.66,3.2,ml,136,16,0.04347,0.24,ci,ci39015759,2019-12-30T18:03:28.437Z,"2km ENE of Brea, CA",earthquake,0.13,0.36,0.152,218,reviewed,ci,ci
+2019-12-28T17:12:44.310Z,17.8995,-66.5885,12,2.69,md,13,210,0.1444,0.26,pr,pr2019362016,2019-12-28T19:40:29.040Z,"12km SW of Potala Pastillo, Puerto Rico",earthquake,0.79,0.68,0.36,9,reviewed,pr,pr
+2019-12-28T15:36:38.636Z,43.3183,-127.0085,10,3,ml,,267,2.008,1.18,us,us70006rx3,2019-12-28T17:11:15.040Z,"212km W of Bandon, Oregon",earthquake,5.6,2,0.05,52,reviewed,us,us
+2019-12-28T15:36:35.611Z,-44.5653,37.087,10,5.5,mww,,55,14.005,0.83,us,us70006rx5,2019-12-30T17:12:44.040Z,"265km NNW of Marion Island, Prince Edward Islands",earthquake,10.2,1.9,0.08,15,reviewed,us,us
+2019-12-28T15:31:26.690Z,51.7373,-179.7477,96.2,3.9,ml,,,,0.42,ak,ak019gmxnu5k,2019-12-28T23:42:57.794Z,"50km ESE of Semisopochnoi Island, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2019-12-28T13:26:01.707Z,56.4322,-148.7443,10,3,ml,,,,0.78,ak,ak019gmwfvqg,2019-12-28T23:36:54.611Z,"268km ESE of Kodiak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2019-12-28T12:32:09.730Z,17.8911,-66.5885,11,2.72,md,14,211,0.1527,0.22,pr,pr2019362007,2019-12-28T14:01:49.841Z,"13km S of Ponce, Puerto Rico",earthquake,0.78,0.68,0.44,13,reviewed,pr,pr
+2019-12-28T12:24:45.289Z,37.6609,141.9357,47.41,4.4,mb,,156,2.936,0.42,us,us70006rw1,2019-12-28T13:21:47.040Z,"84km ENE of Namie, Japan",earthquake,8.9,5.9,0.123,19,reviewed,us,us
+2019-12-28T12:17:36.905Z,60.5399,-152.8904,131.6,2.5,ml,,,,0.66,ak,ak019gmvsk0u,2019-12-28T12:22:17.621Z,"10km NW of Redoubt Volcano, Alaska",earthquake,,1,,,automatic,ak,ak
+2019-12-28T12:08:32.697Z,-6.4547,130.2209,139.97,4.9,mb,,75,1.856,0.77,us,us70006rvr,2019-12-28T12:27:30.040Z,"204km NW of Saumlaki, Indonesia",earthquake,5.9,7.2,0.098,33,reviewed,us,us
+2019-12-28T11:52:54.030Z,17.8956,-66.5878,11,2.63,md,6,254,0.1483,0.22,pr,pr2019362010,2019-12-28T16:36:06.451Z,"13km SSE of Ponce, Puerto Rico",earthquake,1.32,1.02,0.07,4,reviewed,pr,pr
+2019-12-28T11:03:48.947Z,42.0139,-126.0658,10,3.9,mb,,250,1.383,0.96,us,us70006rvc,2019-12-28T18:10:54.680Z,"142km WSW of Gold Beach, Oregon",earthquake,7.7,2,0.112,21,reviewed,us,us
+2019-12-28T10:54:42.658Z,31.1613,-103.2425,5,3,mb_lg,,51,0.25,0.44,us,us70006rvb,2019-12-28T11:10:43.040Z,"37km SE of Pecos, Texas",earthquake,1.7,1.9,0.079,61,reviewed,us,us
+2019-12-28T10:51:37.280Z,19.1311,-66.6983,34,2.81,md,3,354,1.0309,0.23,pr,pr2019362015,2019-12-28T22:46:49.092Z,"72km N of Arecibo, Puerto Rico",earthquake,10.46,19.14,0.14,3,reviewed,pr,pr
+2019-12-28T10:39:58.250Z,19.3635,-64.8258,49,3.66,md,14,329,1.5933,0.32,pr,pr2019362006,2019-12-28T11:35:57.040Z,"109km N of Road Town, British Virgin Islands",earthquake,4.28,17.29,0.33,9,reviewed,pr,pr
+2019-12-28T10:24:59.512Z,42.0357,-126.1113,10,4.3,mwr,,231,1.413,1.09,us,us70006rv7,2019-12-30T06:54:31.132Z,"145km WSW of Gold Beach, Oregon",earthquake,3.6,2,0.03,107,reviewed,us,us
+2019-12-28T10:20:28.161Z,33.0013,46.5702,10,4.5,mb,,98,2.225,0.56,us,us70006rv6,2019-12-28T10:37:36.040Z,"40km ESE of Mehran, Iran",earthquake,8.5,1.9,0.095,33,reviewed,us,us
+2019-12-28T09:09:50.290Z,18.8056,-65.4585,15,2.94,md,3,353,1.7449,0.2,pr,pr2019362014,2019-12-28T16:31:01.259Z,"55km NNE of Luquillo, Puerto Rico",earthquake,8.54,16.58,0,3,reviewed,pr,pr
+2019-12-28T08:49:01.680Z,0.5796,92.701,10,4.6,mb,,118,4.926,0.8,us,us70006rum,2019-12-28T09:06:52.040Z,"Off the west coast of northern Sumatra",earthquake,9,1.9,0.095,33,reviewed,us,us
+2019-12-28T08:43:29.490Z,35.6155,-117.4203333,9.77,3.15,ml,42,31,0.04474,0.13,ci,ci39015367,2019-12-30T17:46:32.430Z,"17km SSW of Trona, CA",earthquake,0.14,0.24,0.148,113,reviewed,ci,ci
+2019-12-28T08:38:14.439Z,5.4056,127.1365,78.41,4.7,mb,,118,2.265,0.79,us,us70006rus,2019-12-28T09:29:15.040Z,"149km SE of Pondaguitan, Philippines",earthquake,7.4,7.6,0.081,47,reviewed,us,us
+2019-12-28T07:35:17.710Z,35.8253326,-117.6481705,3.97,2.56,ml,42,28,0.04227,0.16,ci,ci39015311,2019-12-28T07:59:47.346Z,"23km N of Ridgecrest, CA",earthquake,0.21,0.56,0.238,24,automatic,ci,ci
+2019-12-28T07:23:37.084Z,-6.2274,130.2536,149.52,4.6,mb,,91,2.028,0.97,us,us70006ru2,2019-12-28T07:58:28.040Z,"223km NNW of Saumlaki, Indonesia",earthquake,9.4,7.2,0.095,33,reviewed,us,us
+2019-12-28T07:11:47.750Z,33.1773333,-116.374,10.79,2.73,ml,91,24,0.09758,0.22,ci,ci39015247,2019-12-28T18:41:23.842Z,"9km S of Borrego Springs, CA",earthquake,0.19,0.51,0.242,25,automatic,ci,ci
+2019-12-28T07:09:27.758Z,44.0957,-129.8671,10,3.7,ml,,293,4.335,0.5,us,us70006rtm,2019-12-28T10:57:03.040Z,"Off the coast of Oregon",earthquake,5.7,2,0.062,34,reviewed,us,us
+2019-12-28T07:06:22.660Z,19.109,-65.2656,17,4.4,ml,15,300,1.1292,0.29,pr,pr2019362003,2019-12-28T15:08:58.534Z,"83km N of Culebra, Puerto Rico",earthquake,7.19,14.66,0.43,12,reviewed,pr,pr
+2019-12-28T06:41:04.300Z,19.6401,-65.6045,40,3.16,md,3,328,1.5178,0.16,pr,pr2019362005,2019-12-28T11:08:02.040Z,"127km N of Vieques, Puerto Rico",earthquake,2.32,15.33,0.08,3,reviewed,pr,pr
+2019-12-28T05:57:03.337Z,-10.7413,-78.2695,50.65,4.2,mb,,184,1.869,0.78,us,us70006rt6,2019-12-28T07:30:58.924Z,"48km W of Paramonga, Peru",earthquake,12.3,13.6,0.176,9,reviewed,us,us
+2019-12-28T05:22:21.440Z,39.3419,-29.8949,10,4.6,mb,,81,3.771,0.59,us,us70006rt7,2019-12-28T06:20:48.040Z,"105km E of Santa Cruz das Flores, Portugal",earthquake,10,1.9,0.083,44,reviewed,us,us
+2019-12-28T04:35:39.010Z,18.6745,-66.729,14,3.16,md,12,231,0.2806,0.25,pr,pr2019362001,2019-12-28T05:03:26.040Z,"21km N of Arecibo, Puerto Rico",earthquake,0.99,1.14,0.4,12,reviewed,pr,pr
+2019-12-28T04:14:52.703Z,-55.7385,-27.2562,35,5,mb,,194,5.509,0.76,us,us70006rss,2019-12-28T04:32:28.040Z,"107km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,8.5,2,0.093,37,reviewed,us,us
+2019-12-28T02:34:32.361Z,58.9177,158.7851,15.42,5.1,mb,,108,4.168,0.88,us,us70006rsk,2019-12-28T02:52:58.040Z,"71km WSW of Palana, Russia",earthquake,9.9,4.6,0.029,376,reviewed,us,us
+2019-12-28T01:59:38.287Z,5.2285,125.983,89.31,4.9,mb,,112,1.872,0.66,us,us70006rsi,2019-12-28T02:16:39.040Z,"60km ESE of Sarangani, Philippines",earthquake,9.4,9.1,0.117,23,reviewed,us,us
+2019-12-28T01:48:38.604Z,35.7139,32.1145,58.18,4.2,mb,,122,1.246,1.05,us,us70006rsh,2019-12-28T03:18:38.040Z,"64km SSW of Gazipasa, Turkey",earthquake,4.9,13.4,0.167,10,reviewed,us,us
+2019-12-28T01:00:40.681Z,51.2967,-177.0883,35,4.2,mb,,191,0.473,0.79,us,us70006rsf,2019-12-28T09:03:07.435Z,"71km SSW of Adak, Alaska",earthquake,4.4,1.9,0.14,14,reviewed,us,us
+2019-12-28T00:08:47.777Z,38.5157,90.1533,10,4.1,mb,,89,8.827,0.89,us,us70006rrz,2019-12-30T06:09:47.040Z,"Xinjiang-Qinghai border region, China",earthquake,5.8,1.9,0.127,17,reviewed,us,us
+2019-12-27T23:58:35.240Z,17.9426,-66.33,5,2.65,md,14,207,0.2452,0.35,pr,pr2019361020,2019-12-30T06:05:53.040Z,"6km SSE of Jauca, Puerto Rico",earthquake,0.98,1.28,0.42,13,reviewed,pr,pr
+2019-12-27T23:41:56.953Z,24.0667,123.4953,48.35,4.1,mb,,93,0.595,0.84,us,us70006rs4,2019-12-30T06:04:44.153Z,"67km SE of Yonakuni, Japan",earthquake,7.3,7.1,0.109,23,reviewed,us,us
+2019-12-27T23:06:31.545Z,59.5045,-136.896,2.08,2.7,ml,,120,0.446,0.97,us,us70006rr9,2019-12-30T04:23:06.440Z,"88km WNW of Haines, Alaska",earthquake,3.8,8,0.044,67,reviewed,us,us
+2019-12-27T21:43:31.775Z,51.183,175.8707,10,4.9,mww,,134,1.817,0.74,us,us70006rql,2019-12-30T21:53:33.466Z,"130km S of Buldir Island, Alaska",earthquake,5.4,1.8,0.098,10,reviewed,us,us
+2019-12-27T19:31:23.982Z,65.3598,-163.0474,0,2.6,ml,,,,1.89,ak,ak019glci7ta,2019-12-28T16:48:12.040Z,"149km NE of Nome, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-27T18:50:44.390Z,-23.2983,-69.3741,83.01,4.2,mwr,,53,0.617,0.91,us,us70006rnd,2019-12-28T16:15:47.040Z,"102km SSW of Calama, Chile",earthquake,4.1,4.7,0.049,40,reviewed,us,us
+2019-12-27T16:26:17.220Z,17.9036,-66.5868,12,2.56,md,8,252,0.1405,0.06,pr,pr2019361014,2019-12-27T19:40:56.422Z,"12km SSE of Ponce, Puerto Rico",earthquake,0.88,0.46,0.24,5,reviewed,pr,pr
+2019-12-27T16:06:09.680Z,18.9765,-67.7421,19,3.33,md,11,188,0.6478,0.65,pr,pr2019361013,2019-12-29T00:51:44.117Z,"66km NW of Aguadilla, Puerto Rico",earthquake,2.97,9.31,0.13,9,reviewed,pr,pr
+2019-12-27T15:50:21.091Z,58.4982,-137.0888,0,2.7,ml,,,,1.03,ak,ak019gla8jun,2019-12-28T16:45:53.299Z,"79km W of Gustavus, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-27T13:58:40.191Z,60.2118,-152.8717,119.3,2.5,ml,,,,0.38,ak,ak019gl93frw,2019-12-28T06:08:20.040Z,"31km SSW of Redoubt Volcano, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-27T12:59:17.580Z,36.5449982,-121.0641632,8.88,2.54,md,28,84,0.03885,0.1,nc,nc73320316,2019-12-27T16:38:50.928Z,"7km ENE of Pinnacles, CA",earthquake,0.24,0.53,0.15,34,automatic,nc,nc
+2019-12-27T10:56:46.730Z,19.1641,-67.2278,14,2.94,md,8,297,0.7063,0.38,pr,pr2019361012,2019-12-27T12:03:11.669Z,"75km N of San Antonio, Puerto Rico",earthquake,7.63,15.52,0.42,7,reviewed,pr,pr
+2019-12-27T09:35:08.620Z,18.7896,-64.4221,40,3.24,md,3,348,1.5667,0.29,pr,pr2019361011,2019-12-27T12:02:53.357Z,"46km NNE of Road Town, British Virgin Islands",earthquake,7.18,19.42,0.02,3,reviewed,pr,pr
+2019-12-27T08:57:48.527Z,59.0073,158.9654,14.87,4.7,mb,,94,4.241,0.66,us,us70006rh8,2019-12-27T09:24:56.040Z,"58km WSW of Palana, Russia",earthquake,9.6,5,0.046,144,reviewed,us,us
+2019-12-27T08:34:00.986Z,2.889,127.343,75.39,4.5,mb,,100,2.103,0.66,us,us70006rgu,2019-12-27T08:55:31.040Z,"148km NNW of Tobelo, Indonesia",earthquake,7.7,8.6,0.099,30,reviewed,us,us
+2019-12-27T08:11:46.220Z,19.1805,-67.7835,29,3.38,md,9,320,0.8522,0.32,pr,pr2019361010,2019-12-27T12:02:14.973Z,"93km NE of Punta Cana, Dominican Republic",earthquake,2.07,21.98,0.08,8,reviewed,pr,pr
+2019-12-27T07:28:44.780Z,19.0856,-67.2115,44,3.1,md,5,319,0.6262,0.31,pr,pr2019361009,2019-12-27T12:01:07.261Z,"66km N of San Antonio, Puerto Rico",earthquake,2.86,6.96,0.06,4,reviewed,pr,pr
+2019-12-27T07:02:27.851Z,38.274,39.0472,10,4.9,mww,,59,1.673,0.81,us,us70006rg4,2019-12-27T07:17:25.397Z,"4km S of Doganyol, Turkey",earthquake,3.4,1.9,0.08,15,reviewed,us,us
+2019-12-27T05:42:16.477Z,-18.0347,-178.4009,570.2,4.3,mb,,74,3.389,0.85,us,us70006rfs,2019-12-27T06:07:02.040Z,"291km N of Ndoi Island, Fiji",earthquake,10.3,6.9,0.061,76,reviewed,us,us
+2019-12-27T05:27:30.010Z,17.78,-68.4213,120,3.52,md,6,340,1.3311,0.09,pr,pr2019361008,2019-12-27T09:44:34.040Z,"70km S of Boca de Yuma, Dominican Republic",earthquake,2.02,1.51,0.12,5,reviewed,pr,pr
+2019-12-27T05:25:13.480Z,19.0773,-68.0688,6,3.3,md,8,333,0.9097,0.5,pr,pr2019361007,2019-12-27T09:07:46.040Z,"89km NE of Punta Cana, Dominican Republic",earthquake,30.23,28.36,0.22,7,reviewed,pr,pr
+2019-12-27T05:10:02.118Z,37.8971,142.7059,10,4.9,mb,,121,3.518,0.64,us,us70006rff,2019-12-27T05:35:42.040Z,"136km ESE of Ishinomaki, Japan",earthquake,6.4,1.9,0.062,83,reviewed,us,us
+2019-12-27T04:53:47.232Z,-50.327,130.5338,10,5,mb,,129,16.649,1.09,us,us70006rf7,2019-12-27T05:09:18.040Z,"Western Indian-Antarctic Ridge",earthquake,13,1.9,0.107,28,reviewed,us,us
+2019-12-27T04:46:26.093Z,59.7651,-152.1226,50.4,2.9,ml,,,,0.64,ak,ak019gl3nxlr,2019-12-27T05:13:47.040Z,"16km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2019-12-27T04:26:54.630Z,19.1468,-68.0605,7,3.28,md,10,330,0.9586,0.45,pr,pr2019361006,2019-12-28T03:58:46.040Z,"89km NE of Punta Cana, Dominican Republic",earthquake,25.44,24.15,0.26,10,reviewed,pr,pr
+2019-12-27T03:59:52.780Z,19.2886,-67.5633,15,3.04,md,5,316,0.9081,0.3,pr,pr2019361005,2019-12-28T03:53:30.040Z,"105km NNW of San Antonio, Puerto Rico",earthquake,10.03,19.83,0.12,5,reviewed,pr,pr
+2019-12-27T03:46:11.460Z,19.1836,-67.4138,15,2.96,md,3,324,1.2158,0.23,pr,pr2019361004,2019-12-27T09:01:07.473Z,"83km NNW of San Antonio, Puerto Rico",earthquake,9.39,18.39,0.27,3,reviewed,pr,pr
+2019-12-27T03:32:14.100Z,17.2348,-68.3018,44,3.56,md,8,334,1.4201,0.19,pr,pr2019361003,2019-12-28T03:46:40.040Z,"126km SSE of Boca de Yuma, Dominican Republic",earthquake,2.11,8.4,0.23,7,reviewed,pr,pr
+2019-12-27T03:20:39.655Z,3.4555,-73.9805,10,4.6,mb,,92,1.421,1.22,us,us70006rer,2019-12-27T03:40:19.040Z,"8km SSE of Lejanias, Colombia",earthquake,6.5,1.9,0.058,89,reviewed,us,us
+2019-12-27T02:21:47.880Z,35.77,-117.5951667,7.78,3.93,ml,40,41,0.04568,0.16,ci,ci39014215,2019-12-30T17:03:58.610Z,"17km W of Searles Valley, CA",earthquake,0.15,0.43,0.161,137,reviewed,ci,ci
+2019-12-27T01:53:16.004Z,28.885,51.3613,38.28,5.1,mb,,73,5.838,0.9,us,us70006rec,2019-12-30T14:02:25.488Z,"44km SSE of Borazjan, Iran",earthquake,7.6,6.7,0.046,153,reviewed,us,us
+2019-12-27T01:37:46.587Z,16.7917,-61.0227,35.02,4.8,mb,,103,0.478,1.02,us,us70006re9,2019-12-27T03:21:55.553Z,"54km N of Grande Anse, Guadeloupe",earthquake,6.6,7.4,0.042,176,reviewed,us,us
+2019-12-27T01:30:44.290Z,19.2865,-67.6653,30,2.71,md,5,329,0.921,0.24,pr,pr2019361002,2019-12-27T06:28:26.619Z,"106km NW of San Antonio, Puerto Rico",earthquake,3.33,13.96,0.31,4,reviewed,pr,pr
+2019-12-27T01:19:58.580Z,19.293,-67.3193,49,3.23,md,9,299,0.8513,0.14,pr,pr2019361000,2019-12-28T03:29:41.040Z,"85km N of San Antonio, Puerto Rico",earthquake,1.39,5.11,0.17,9,reviewed,pr,pr
+2019-12-27T00:31:39.650Z,19.4626675,-155.5963287,-2.91,2.5,ml,49,52,0.01236,0.28,hv,hv71294281,2019-12-27T00:37:20.400Z,"28km E of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.25,3.18,22,automatic,hv,hv
+2019-12-26T23:49:23.840Z,19.222,-67.2836,56,2.95,md,4,316,0.8601,0.3,pr,pr2019360026,2019-12-30T03:56:38.040Z,"92km NNW of Isabela, Puerto Rico",earthquake,3.72,8.71,0.18,3,reviewed,pr,pr
+2019-12-26T23:42:59.222Z,59.4594,-152.116,37,2.5,ml,,,,0.91,ak,ak019gjrf18d,2019-12-30T06:43:27.040Z,"38km WSW of Homer, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2019-12-26T23:41:05.150Z,19.1796,-67.4681,60,2.56,md,5,319,0.7952,0.3,pr,pr2019360025,2019-12-30T04:01:30.040Z,"97km NNW of San Antonio, Puerto Rico",earthquake,2.61,5.67,0.54,5,reviewed,pr,pr
+2019-12-26T23:24:10.340Z,18.7036,-67.7786,49,2.78,md,4,332,0.871,0.25,pr,pr2019360023,2019-12-27T06:26:31.651Z,"67km ENE of Punta Cana, Dominican Republic",earthquake,5.11,14.06,0.25,4,reviewed,pr,pr
+2019-12-26T21:47:52.380Z,17.2985,-68.3718,28,3.06,md,8,238,1.4057,0.4,pr,pr2019360022,2019-12-30T06:44:24.040Z,"131km SSE of Boca de Yuma, Dominican Republic",earthquake,3.05,29.56,0.35,6,reviewed,pr,pr
+2019-12-26T21:33:32.958Z,57.42,-152.099,34.1,3,ml,,,,0.31,ak,ak019gjq66xc,2019-12-30T06:47:19.040Z,"45km SSE of Kodiak, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-26T20:46:41.060Z,19.196,-67.3523,25,3,md,3,358,1.0545,0.07,pr,pr2019360021,2019-12-26T23:11:50.240Z,"82km NNW of San Antonio, Puerto Rico",earthquake,8.21,9.91,0,1,reviewed,pr,pr
+2019-12-26T20:39:02.711Z,31.0097,-103.5343,2.42,2.6,ml,,69,0.201,0.36,us,us70006rbt,2019-12-26T22:11:55.040Z,"45km S of Pecos, Texas",earthquake,1.6,5.8,0.056,42,reviewed,us,us
+2019-12-26T19:56:11.332Z,52.5343,-168.6432,35,4.1,mb,,235,0.457,1.03,us,us70006rbj,2019-12-26T21:52:15.267Z,"47km SSE of Nikolski, Alaska",earthquake,6.7,2,0.146,13,reviewed,us,us
+2019-12-26T19:48:23.610Z,37.5821667,-118.8218333,9.9,3.62,mw,33,94,0.009746,0.06,nc,nc73319936,2019-12-30T22:44:55.823Z,"13km W of Toms Place, CA",earthquake,0.32,0.44,,4,reviewed,nc,nc
+2019-12-26T19:24:55.965Z,32.3066,105.2109,10,4.5,mb,,93,4.188,0.64,us,us70006rbi,2019-12-26T22:04:06.040Z,"6km W of Qifo, China",earthquake,7.8,1.8,0.071,58,reviewed,us,us
+2019-12-26T19:04:46.947Z,57.8001,158.9706,10,4.3,mb,,118,4.634,1.33,us,us70006rb2,2019-12-26T21:52:57.040Z,"18km E of Tigil', Russia",earthquake,7.2,1.9,0.106,26,reviewed,us,us
+2019-12-26T19:04:31.504Z,-17.4475,-178.7843,567.81,4.8,mb,,76,3.031,0.72,us,us70006raz,2019-12-26T21:40:00.040Z,"226km ESE of Lambasa, Fiji",earthquake,12.3,6.8,0.028,388,reviewed,us,us
+2019-12-26T18:09:03.622Z,59.0454,158.7635,10,4.4,mb,,209,4.131,0.68,us,us70006r9j,2019-12-26T21:31:27.040Z,"69km W of Palana, Russia",earthquake,7.2,2,0.054,100,reviewed,us,us
+2019-12-26T17:47:09.402Z,39.6522,95.3787,10,4.1,mb,,129,10.522,0.9,us,us70006r9d,2019-12-26T21:25:18.040Z,"89km SSW of Guazhou, China",earthquake,6.6,1.9,0.114,21,reviewed,us,us
+2019-12-26T17:21:42.376Z,58.7872,158.866,15.58,4.9,mb,,108,4.239,0.78,us,us70006r99,2019-12-26T17:40:19.040Z,"73km WSW of Palana, Russia",earthquake,9.4,2.4,0.035,260,reviewed,us,us
+2019-12-26T17:13:51.402Z,58.8427,158.7756,16.99,5.4,mww,,87,4.18,0.62,us,us70006r97,2019-12-30T18:06:42.040Z,"74km WSW of Palana, Russia",earthquake,7.9,3.8,0.078,16,reviewed,us,us
+2019-12-26T17:00:13.160Z,19.4938333,-155.6766667,3.27,3.02,ml,63,50,0.02672,0.15,hv,hv71293756,2019-12-31T01:00:54.054Z,"20km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.43,0.157,46,reviewed,hv,hv
+2019-12-26T16:59:54.254Z,-3.3404,130.7359,47.95,4.4,mb,,46,1.567,1.13,us,us70006r96,2019-12-27T17:10:42.040Z,"202km E of Amahai, Indonesia",earthquake,6.3,6.3,0.107,32,reviewed,us,us
+2019-12-26T16:52:12.250Z,18.525,-66.7738,118,2.77,md,8,201,0.1794,0.35,pr,pr2019360020,2019-12-27T16:39:11.040Z,"5km NNE of Carrizales, Puerto Rico",earthquake,2.79,1.8,0.1,7,reviewed,pr,pr
+2019-12-26T15:15:13.236Z,-55.7473,-27.1713,18.78,5.2,mww,,46,5.558,0.83,us,us70006r89,2019-12-27T15:45:17.040Z,"106km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,10.1,3.8,0.078,16,reviewed,us,us
+2019-12-26T15:14:33.245Z,-55.6399,-27.1756,24.79,4.6,mb,,80,5.535,1.06,us,us70006rkg,2019-12-27T16:12:33.040Z,"118km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.7,5.2,0.098,35,reviewed,us,us
+2019-12-26T14:44:12.137Z,63.1811,-150.625,127.1,3.3,ml,,,,0.57,ak,ak019gjm2h0o,2019-12-27T03:11:55.192Z,"87km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-26T14:22:06.850Z,19.1905,-67.6226,18,3.18,md,9,328,0.8187,0.37,pr,pr2019360018,2019-12-26T17:51:53.040Z,"78km NW of San Antonio, Puerto Rico",earthquake,13.43,26.92,0.17,5,reviewed,pr,pr
+2019-12-26T12:19:52.363Z,11.1734,122.706,38.3,4.9,mb,,86,8.194,0.91,us,us70006r7h,2019-12-27T02:12:46.520Z,"1km SW of Alimono, Philippines",earthquake,8.8,5.4,0.06,108,reviewed,us,us
+2019-12-26T10:52:22.700Z,3.5624,-74.032,10,4.4,mb,,83,1.306,0.83,us,us70006r6t,2019-12-27T22:12:47.440Z,"4km NNW of Lejanias, Colombia",earthquake,6.8,1.9,0.079,46,reviewed,us,us
+2019-12-26T10:40:54.440Z,19.1321,-67.631,26,3.09,md,9,323,0.7629,0.32,pr,pr2019360015,2019-12-26T13:05:51.240Z,"90km NW of San Antonio, Puerto Rico",earthquake,2.3,20.72,0.17,4,reviewed,pr,pr
+2019-12-26T10:38:21.600Z,19.197,-67.6978,39,2.87,md,6,330,0.9361,0.48,pr,pr2019360014,2019-12-26T13:05:05.904Z,"100km NE of Punta Cana, Dominican Republic",earthquake,5.83,29.22,0.3,6,reviewed,pr,pr
+2019-12-26T10:37:11.900Z,18.975,-67.8278,19,3.07,md,11,321,0.6858,0.36,pr,pr2019360010,2019-12-26T11:20:28.790Z,"74km NE of Punta Cana, Dominican Republic",earthquake,11.91,24.09,0.26,9,reviewed,pr,pr
+2019-12-26T10:36:37.457Z,30.982,113.4582,10,5,mb,,54,8.691,0.96,us,us70006r6e,2019-12-28T08:46:43.926Z,"5km S of Tiandian, China",earthquake,9.3,1.9,0.054,109,reviewed,us,us
+2019-12-26T10:16:33.940Z,19.0186,-67.6478,24,2.64,md,4,326,0.7692,0.19,pr,pr2019360013,2019-12-26T12:10:24.760Z,"82km NW of San Antonio, Puerto Rico",earthquake,1.77,14.47,0.15,4,reviewed,pr,pr
+2019-12-26T10:13:38.190Z,19.1706,-67.3488,40,3,md,4,326,1.0162,0.25,pr,pr2019360012,2019-12-26T12:10:02.308Z,"79km NNW of San Antonio, Puerto Rico",earthquake,3.41,15.57,0.06,3,reviewed,pr,pr
+2019-12-26T09:47:46.410Z,18.2711,-67.4605,137,3.33,md,9,223,0.1149,0.44,pr,pr2019360011,2019-12-26T12:09:41.404Z,"23km WSW of Rincon, Puerto Rico",earthquake,4.61,1.97,0.24,5,reviewed,pr,pr
+2019-12-26T09:28:57.641Z,-21.0878,-70.4989,51.52,4.3,mb,,173,0.418,0.69,us,us70006r5y,2019-12-27T05:32:41.264Z,"102km SSW of Iquique, Chile",earthquake,6.1,8.4,0.188,8,reviewed,us,us
+2019-12-26T09:26:41.426Z,38.7817,141.5243,63.5,4.9,mb,,122,2.671,0.9,us,us70006r5w,2019-12-26T11:26:53.575Z,"36km SSW of Ofunato, Japan",earthquake,8.6,6.8,0.048,136,reviewed,us,us
+2019-12-26T09:24:35.995Z,-5.4887,150.8466,121.95,5.2,mb,,40,4.875,0.79,us,us70006r5x,2019-12-26T19:48:47.837Z,"78km E of Kimbe, Papua New Guinea",earthquake,5.1,7.1,0.041,201,reviewed,us,us
+2019-12-26T08:45:13.160Z,19.0411,-67.1825,32,2.68,md,4,316,0.816,0.29,pr,pr2019360009,2019-12-26T12:09:15.980Z,"61km N of San Antonio, Puerto Rico",earthquake,3.22,19.23,0.22,4,reviewed,pr,pr
+2019-12-26T08:28:40.330Z,19.4386,-67.8836,62,3.38,md,14,331,1.129,0.39,pr,pr2019360008,2019-12-26T10:31:39.040Z,"116km NNE of Punta Cana, Dominican Republic",earthquake,4.4,14.1,0.33,13,reviewed,pr,pr
+2019-12-26T08:13:47.250Z,39.3505,-119.993,9,2.7,ml,30,35.13,0.067,0.1371,nn,nn00714016,2019-12-27T02:07:41.151Z,"11km N of Incline Village, Nevada",earthquake,,1,0.45,6,reviewed,nn,nn
+2019-12-26T07:22:10.378Z,-7.844,106.7599,54.71,4.7,mb,,54,3.728,0.69,us,us70006r59,2019-12-26T07:49:49.040Z,"46km S of Buniasih, Indonesia",earthquake,8.4,2.6,0.078,50,reviewed,us,us
+2019-12-26T06:48:24.110Z,19.2151,-67.7508,39,2.7,md,4,343,0.9838,0.38,pr,pr2019360007,2019-12-26T10:42:22.040Z,"95km NW of San Antonio, Puerto Rico",earthquake,6.86,23.55,0.17,4,reviewed,pr,pr
+2019-12-26T06:29:06.940Z,19.0261,-67.6855,26,2.82,md,6,336,0.8012,0.25,pr,pr2019360006,2019-12-26T10:49:24.040Z,"88km NW of San Antonio, Puerto Rico",earthquake,2.8,16.2,0.05,6,reviewed,pr,pr
+2019-12-26T06:28:01.500Z,19.1875,-67.928,39,2.91,md,5,340,1.0888,0.26,pr,pr2019360005,2019-12-26T10:55:21.040Z,"81km NE of Punta Cana, Dominican Republic",earthquake,3.52,16.53,0.05,5,reviewed,pr,pr
+2019-12-26T06:27:49.892Z,5.5337,-75.2678,78.58,4.4,mb,,54,1.164,0.61,us,us70006r4u,2019-12-26T13:53:46.359Z,"13km SW of Narino, Colombia",earthquake,5.7,10,0.067,65,reviewed,us,us
+2019-12-26T05:55:32.156Z,58.8214,158.8209,10,4.9,mb,,97,4.208,0.54,us,us70006r4p,2019-12-26T06:18:35.040Z,"73km WSW of Palana, Russia",earthquake,8.1,1.9,0.029,370,reviewed,us,us
+2019-12-26T04:12:00.180Z,35.9508333,-117.366,2.74,3.32,ml,39,67,0.08986,0.15,ci,ci39013663,2019-12-26T21:55:20.670Z,"21km N of Searles Valley, CA",earthquake,0.19,0.4,0.126,271,reviewed,ci,ci
+2019-12-26T03:48:30.386Z,3.398,-74.0126,10,4.8,mb,,116,1.469,1.13,us,us70006r41,2019-12-26T10:58:40.468Z,"3km ENE of Mesetas, Colombia",earthquake,9.4,1.9,0.031,323,reviewed,us,us
+2019-12-26T02:26:14.960Z,19.0333,-67.167,7,2.88,md,5,334,0.5685,0.05,pr,pr2019360002,2019-12-26T07:30:11.111Z,"60km NNW of Isabela, Puerto Rico",earthquake,1.26,1.3,0.05,5,reviewed,pr,pr
+2019-12-26T02:21:35.403Z,-22.0846,173.1524,59.95,5.5,mww,,102,5.308,1.22,us,us70006r3m,2019-12-30T18:15:52.040Z,"118km ENE of Ile Hunter, New Caledonia",earthquake,9.5,6.8,0.08,15,reviewed,us,us
+2019-12-26T02:16:56.635Z,-22.0043,173.7065,10,5.1,mb,,123,5.828,1.25,us,us70006r3l,2019-12-26T02:51:17.040Z,"94km WSW of Ceva-i-Ra, Fiji",earthquake,10.2,1.9,0.069,68,reviewed,us,us
+2019-12-26T02:06:38.682Z,-22.2079,173.2073,10,5.1,mb,,123,5.345,1.32,us,us70006r3i,2019-12-26T02:27:39.040Z,"121km E of Ile Hunter, New Caledonia",earthquake,11.3,1.9,0.055,106,reviewed,us,us
+2019-12-25T23:15:06.818Z,32.9658,-118.9975,9.9,3.4,ml,,211,1.38,0.66,us,us70006r2m,2019-12-26T14:48:44.224Z,"75km WSW of Avalon, California",earthquake,7.2,10.4,0.031,138,reviewed,us,us
+2019-12-25T22:10:48.800Z,18.9976,-64.3788,32,3.69,md,15,238,1.7008,0.25,pr,pr2019359008,2019-12-26T02:27:40.563Z,"79km NNE of Road Town, British Virgin Islands",earthquake,1.88,16.95,0.42,13,reviewed,pr,pr
+2019-12-25T21:20:49.436Z,61.6376,-150.2638,38.7,3,ml,,,,0.58,ak,ak019gi2k328,2019-12-26T21:22:54.732Z,"19km SW of Willow, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2019-12-25T20:38:52.929Z,50.8542,-130.2928,10,4.8,mwr,,167,1.547,1.21,us,us70006r1m,2019-12-26T02:28:42.267Z,"203km W of Port Hardy, Canada",earthquake,9,1.9,0.083,14,reviewed,us,us
+2019-12-25T20:20:12.236Z,-25.2639,-116.0112,10,5.8,mww,,197,6.201,1.43,us,us70006r1g,2019-12-30T17:03:08.040Z,"Southern East Pacific Rise",earthquake,15.3,2,0.08,15,reviewed,us,us
+2019-12-25T18:34:07.562Z,-22.1748,172.4866,10,4.9,mww,,125,4.197,1.06,us,us70006r11,2019-12-25T19:05:58.040Z,"51km ENE of Ile Hunter, New Caledonia",earthquake,13.7,1.9,0.078,16,reviewed,us,us
+2019-12-25T18:13:56.948Z,-54.2504,140.5544,10,4.7,mb,,93,12.194,1.08,us,us70006r0q,2019-12-25T18:37:07.040Z,"West of Macquarie Island",earthquake,12.4,1.9,0.089,45,reviewed,us,us
+2019-12-25T18:05:29.094Z,-22.2501,173.3423,10,4.9,mb,,121,4.992,0.96,us,us70006r0p,2019-12-25T18:25:48.040Z,"134km E of Ile Hunter, New Caledonia",earthquake,12.7,1.9,0.085,43,reviewed,us,us
+2019-12-25T17:00:42.069Z,56.4019,-148.4714,12.3,3.6,ml,,,,0.8,ak,ak019gi021yz,2019-12-25T21:49:59.908Z,"284km ESE of Kodiak, Alaska",earthquake,,1675.9,,,reviewed,ak,ak
+2019-12-25T16:56:17.126Z,4.3226,126.974,10,5.2,mb,,100,3.061,0.63,us,us70006qzx,2019-12-25T17:15:53.040Z,"205km SE of Sarangani, Philippines",earthquake,5.7,1.8,0.07,68,reviewed,us,us
+2019-12-25T16:25:44.455Z,50.4676,-129.3664,10,4,mb,,171,1.89,0.89,us,us70006qzl,2019-12-30T04:39:24.040Z,"140km W of Port Hardy, Canada",earthquake,9.6,2,0.075,48,reviewed,us,us
+2019-12-25T16:13:39.098Z,55.7609,162.1938,10,4.4,mb,,102,3.437,1,us,us70006qzh,2019-12-30T04:06:58.040Z,"54km SSW of Ust'-Kamchatsk Staryy, Russia",earthquake,11,1.9,0.052,106,reviewed,us,us
+2019-12-25T14:58:10.675Z,-22.0853,173.4511,10,4.7,mb,,120,5.073,1.21,us,us70006qyv,2019-12-27T18:41:20.040Z,"122km WSW of Ceva-i-Ra, Fiji",earthquake,10.2,1.9,0.091,37,reviewed,us,us
+2019-12-25T14:44:00.540Z,19.15,-67.5246,28,2.99,md,5,326,0.7979,0.25,pr,pr2019359006,2019-12-27T18:32:23.040Z,"72km NW of San Antonio, Puerto Rico",earthquake,2,15.69,0.13,5,reviewed,pr,pr
+2019-12-25T14:30:28.610Z,51.5095,-178.4355,14.96,2.67,ml,12,228,,0.2,av,av62116911,2019-12-26T20:10:30.170Z,"46km SSW of Tanaga Volcano, Alaska",earthquake,0.91,15.09,0.261,13,reviewed,av,av
+2019-12-25T14:15:06.891Z,-22.1171,173.3803,10,5,mww,,120,5.011,1.01,us,us70006qyp,2019-12-27T18:17:14.040Z,"130km WSW of Ceva-i-Ra, Fiji",earthquake,11.1,1.8,0.075,17,reviewed,us,us
+2019-12-25T13:58:22.424Z,44.2104,-113.9994,10.57,2.8,ml,,47,0.439,1.06,us,us70006qyi,2019-12-27T19:02:03.000Z,"37km SSE of Challis, Idaho",earthquake,2.8,8.5,0.036,100,reviewed,us,us
+2019-12-25T13:00:18.247Z,39.3196,-29.7315,10,4.8,mb,,67,3.646,0.87,us,us70006qyb,2019-12-27T17:54:36.040Z,"120km E of Santa Cruz das Flores, Portugal",earthquake,10,1.9,0.035,257,reviewed,us,us
+2019-12-25T12:23:13.899Z,-22.0342,173.7386,16.48,5.2,mww,,121,5.334,0.6,us,us70006qy1,2019-12-25T12:41:32.040Z,"92km WSW of Ceva-i-Ra, Fiji",earthquake,10.3,5.2,0.08,15,reviewed,us,us
+2019-12-25T11:24:33.350Z,35.90733333,-98.52316667,7.53,3.38,ml,52,42,0,0.16,ok,ok2019zeyr,2019-12-26T11:26:00.067Z,"12km WNW of Watonga, Oklahoma",earthquake,,0.4,0.2,16,reviewed,ok,ok
+2019-12-25T10:50:49.125Z,-21.9881,173.453,44.69,4.5,mb,,126,5.596,0.71,us,us70006qxh,2019-12-25T11:44:58.040Z,"119km WSW of Ceva-i-Ra, Fiji",earthquake,6.8,8.4,0.113,23,reviewed,us,us
+2019-12-25T10:39:58.078Z,3.5802,-74.0708,10,4.4,mb,,131,1.28,0.83,us,us70006qx0,2019-12-25T11:02:22.040Z,"8km NW of Lejanias, Colombia",earthquake,8.4,2,0.081,44,reviewed,us,us
+2019-12-25T10:25:55.423Z,3.6426,-73.9539,10,4.5,mb,,75,1.249,1.13,us,us70006qwx,2019-12-25T10:49:45.040Z,"15km NNE of Lejanias, Colombia",earthquake,8.5,2,0.08,46,reviewed,us,us
+2019-12-25T10:11:43.999Z,-21.9579,173.5649,24.08,5.2,mww,,120,5.167,0.79,us,us70006qwn,2019-12-25T10:29:52.040Z,"107km WSW of Ceva-i-Ra, Fiji",earthquake,9.7,5.4,0.078,16,reviewed,us,us
+2019-12-25T09:34:28.990Z,38.8875008,-123.6273346,7.83,2.58,md,24,212,0.09304,0.1,nc,nc73319346,2019-12-25T16:50:40.600Z,"6km ESE of Point Arena, CA",earthquake,0.67,0.63,0.18,18,automatic,nc,nc
+2019-12-25T09:32:45.970Z,35.9833333,-117.4111667,1.17,2.85,ml,28,71,0.1388,0.14,ci,ci39012911,2019-12-25T09:43:36.070Z,"24km N of Searles Valley, CA",earthquake,0.24,0.78,0.159,25,automatic,ci,ci
+2019-12-25T09:12:44.260Z,19.1981,-67.7315,17,2.56,md,4,330,1.2092,0.2,pr,pr2019359004,2019-12-25T12:12:29.350Z,"98km NE of Punta Cana, Dominican Republic",earthquake,8.21,16.35,0.3,4,reviewed,pr,pr
+2019-12-25T08:58:03.078Z,31.4894,140.0333,118.92,5,mb,,92,1.631,1.21,us,us70006qvr,2019-12-25T09:52:35.733Z,"178km S of Hachijo-jima, Japan",earthquake,3.9,6.7,0.028,405,reviewed,us,us
+2019-12-25T07:33:57.780Z,36.29233333,-98.1755,6.69,2.89,ml,70,73,0,0.19,ok,ok2019zerb,2019-12-25T15:22:25.138Z,"22km NNE of Okeene, Oklahoma",earthquake,,0.5,0.23,30,reviewed,ok,ok
+2019-12-25T07:22:39.960Z,18.2366,-68.8463,108,3.57,md,6,245,1.1073,0.16,pr,pr2019359003,2019-12-25T11:35:39.550Z,"24km SSE of La Romana, Dominican Republic",earthquake,3.33,2.78,0.12,5,reviewed,pr,pr
+2019-12-25T07:04:18.923Z,23.6437,95.9931,10,4.6,mb,,71,1.655,0.52,us,us70006quh,2019-12-25T07:37:35.040Z,"95km NNW of Mogok, Burma",earthquake,6.6,1.9,0.105,27,reviewed,us,us
+2019-12-25T07:04:01.790Z,17.909,-66.8578,5,2.89,md,14,229,0.0695,0.06,pr,pr2019359002,2019-12-25T07:30:14.366Z,"8km SE of Guanica, Puerto Rico",earthquake,0.43,0.27,0.21,10,reviewed,pr,pr
+2019-12-25T06:54:31.693Z,58.6624,-153.5854,77.1,3.4,ml,,,,0.54,ak,ak019ghttu0n,2019-12-25T09:25:25.621Z,"115km NNW of Kodiak Station, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-25T06:53:20.833Z,-22.3417,173.7219,10,4.7,mb,,126,5.353,0.98,us,us70006qut,2019-12-25T07:53:33.040Z,"110km SW of Ceva-i-Ra, Fiji",earthquake,11.9,1.9,0.121,21,reviewed,us,us
+2019-12-25T06:38:30.214Z,12.8898,-88.4496,74.79,4.3,mb,,173,1.406,0.86,us,us70006qu5,2019-12-25T10:11:09.040Z,"44km SSE of Puerto El Triunfo, El Salvador",earthquake,8.1,9.9,0.06,80,reviewed,us,us
+2019-12-25T05:38:28.529Z,63.5147,-149.6152,104.2,2.6,ml,,,,0.71,ak,ak019ght4yob,2019-12-25T06:12:50.040Z,"35km WNW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-25T03:45:51.380Z,-21.9499,173.4771,39.89,5.1,mb,,124,5.624,1.15,us,us70006qtd,2019-12-25T04:04:36.040Z,"116km W of Ceva-i-Ra, Fiji",earthquake,10.7,7.9,0.073,60,reviewed,us,us
+2019-12-25T03:36:02.511Z,50.5828,-129.9987,10,6.3,mww,,99,1.869,1.04,us,us70006qt7,2019-12-27T23:49:44.398Z,"182km W of Port Hardy, Canada",earthquake,6.5,1.8,0.045,48,reviewed,us,us
+2019-12-25T03:32:07.778Z,51.3693,-176.6279,21.8,3.6,ml,,,,0.34,ak,ak019ghrwrog,2019-12-25T10:05:30.076Z,"56km S of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2019-12-25T03:14:22.430Z,19.4185,-65.2836,40,3.08,md,7,330,1.3678,0.34,pr,pr2019359001,2019-12-25T07:31:20.486Z,"123km N of Culebra, Puerto Rico",earthquake,4.9,25.33,0.37,2,reviewed,pr,pr
+2019-12-25T03:08:59.043Z,51.491,-176.6903,54.29,4.3,mb,,186,0.391,1.12,us,us70006qt4,2019-12-25T09:52:45.397Z,"43km S of Adak, Alaska",earthquake,7.2,7.4,0.077,48,reviewed,us,us
+2019-12-25T02:33:00.062Z,-8.9581,124.1095,86.98,4.4,mb,,85,0.807,0.5,us,us70006qsw,2019-12-25T02:54:36.040Z,"67km NW of Kefamenanu, Indonesia",earthquake,7,6.2,0.162,11,reviewed,us,us
+2019-12-25T02:30:09.062Z,-49.6989,126.1997,10,4.4,mb,,110,15.816,0.78,us,us70006qsy,2019-12-25T02:48:27.040Z,"Western Indian-Antarctic Ridge",earthquake,14.9,2,0.138,15,reviewed,us,us
+2019-12-25T02:11:23.571Z,3.452,-73.9555,10,5.1,mb,,111,1.431,1.09,us,us70006qsp,2019-12-26T04:09:38.235Z,"10km SE of Lejanias, Colombia",earthquake,6.9,1.8,0.026,478,reviewed,us,us
+2019-12-25T01:24:15.890Z,33.7098333,-116.7803333,15.79,2.89,ml,124,12,0.05517,0.2,ci,ci39012591,2019-12-26T22:18:35.810Z,"7km WSW of Idyllwild, CA",earthquake,0.11,0.26,0.14,250,reviewed,ci,ci
+2019-12-25T01:05:37.190Z,64.5662,-149.731,20.8,2.5,ml,,,,0.68,ak,ak019ghqk6ay,2019-12-25T01:12:54.073Z,"29km W of North Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-25T00:56:45.428Z,-1.5156,120.1165,10,4.8,mb,,91,2.692,1.06,us,us70006qsf,2019-12-25T01:22:03.040Z,"60km W of Kasiguncu, Indonesia",earthquake,4.3,1.9,0.135,17,reviewed,us,us
+2019-12-25T00:43:52.230Z,19.1898,-67.8995,51,3.23,md,8,330,1.0692,0.55,pr,pr2019359000,2019-12-25T05:57:45.772Z,"85km NE of Punta Cana, Dominican Republic",earthquake,7.9,32.54,0.16,5,reviewed,pr,pr
+2019-12-25T00:25:01.015Z,3.4684,-73.9681,10,4.5,mb,,82,1.412,0.92,us,us70006qs6,2019-12-25T02:35:56.739Z,"8km SE of Lejanias, Colombia",earthquake,8.8,1.9,0.049,123,reviewed,us,us
+2019-12-24T23:55:18.115Z,13.7672,-92.8236,10,4.5,mb,,188,1.328,1.06,us,us70006qrz,2019-12-25T00:17:41.040Z,"106km SW of Ocos, Guatemala",earthquake,10,2,0.045,144,reviewed,us,us
+2019-12-24T23:55:13.600Z,19.1353,-67.723,39,3.35,md,9,326,0.7895,0.54,pr,pr2019358018,2019-12-30T03:33:29.040Z,"76km NW of San Antonio, Puerto Rico",earthquake,5.64,30.47,0.05,3,reviewed,pr,pr
+2019-12-24T23:47:02.430Z,35.9918333,-119.9496667,22.85,2.93,md,88,24,0.2802,0.22,nc,nc73319181,2019-12-31T03:49:03.958Z,"2km SSE of Kettleman City, CA",earthquake,0.31,0.42,0.221,75,reviewed,nc,nc
+2019-12-24T23:11:36.090Z,19.262,-67.4745,33,3.3,md,5,339,0.8736,0.37,pr,pr2019358017,2019-12-30T03:32:01.040Z,"105km NW of San Antonio, Puerto Rico",earthquake,4.99,29.55,0.04,3,reviewed,pr,pr
+2019-12-24T22:41:32.824Z,13.7097,-91.4706,35,4.3,mb,,162,0.838,1.35,us,us70006qrm,2019-12-30T03:25:24.040Z,"57km SSW of Nueva Concepcion, Guatemala",earthquake,8.9,2,0.056,90,reviewed,us,us
+2019-12-24T22:06:53.010Z,19.1793,-67.7118,43,2.97,md,7,330,0.8282,0.25,pr,pr2019358016,2019-12-30T03:16:25.040Z,"77km NW of San Antonio, Puerto Rico",earthquake,3.22,13.71,0.32,6,reviewed,pr,pr
+2019-12-24T22:04:31.720Z,19.2595,-67.9131,43,3.02,md,11,331,0.9767,0.34,pr,pr2019358015,2019-12-30T03:13:41.040Z,"76km NW of San Antonio, Puerto Rico",earthquake,3.2,17.76,0.3,10,reviewed,pr,pr
+2019-12-24T22:00:18.274Z,36.31199265,-98.13368988,1.530025005,2.8,ml,79,47.26339889,0.2273990363,0.5596848378,ok,ok2019zdyd,2019-12-30T03:11:42.040Z,"22km W of Waukomis, Oklahoma",earthquake,1.299516644,1.164927868,,59,automatic,ok,ok
+2019-12-24T20:14:33.674Z,61.8589,-159.4069,3.9,2.6,ml,,,,1.19,ak,ak019ggedzje,2019-12-25T18:45:35.040Z,"42km SSE of Holy Cross, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-24T20:11:15.668Z,3.6656,-73.9345,10,4.5,mb,,85,1.233,0.61,us,us70006qq5,2019-12-25T18:15:21.040Z,"17km SW of San Luis de Cubarral, Colombia",earthquake,6.4,1.5,0.072,56,reviewed,us,us
+2019-12-24T19:44:03.846Z,36.87392807,-97.77272797,0.9741221666,2.57,ml,50,65.81265259,0.07317041606,0.6129567842,ok,ok2019zdtr,2019-12-26T08:38:38.255Z,"8km NNW of Medford, Oklahoma",earthquake,1.921488217,1.405651291,,35,automatic,ok,ok
+2019-12-24T19:19:03.270Z,3.4572,-74.0581,10,5.6,mww,,51,1.403,0.67,us,us70006qp1,2019-12-25T19:20:54.488Z,"8km SSW of Lejanias, Colombia",earthquake,7.2,1.8,0.046,46,reviewed,us,us
+2019-12-24T19:03:52.404Z,3.5028,-74.0461,11,6,mww,,47,1.361,0.75,us,us70006qnn,2019-12-30T16:39:45.040Z,"3km SW of Lejanias, Colombia",earthquake,7.1,1.7,0.066,22,reviewed,us,us
+2019-12-24T19:02:44.940Z,19.3356,-67.441,49,3.16,md,11,304,0.9286,0.54,pr,pr2019358013,2019-12-25T16:27:20.040Z,"84km NNW of San Antonio, Puerto Rico",earthquake,3.89,13.35,0.18,10,reviewed,pr,pr
+2019-12-24T18:48:24.477Z,-18.657,-69.2137,134.28,4.9,mww,,67,0.424,0.85,us,us70006qnj,2019-12-25T16:22:53.040Z,"62km SE of Putre, Chile",earthquake,5.3,4.6,0.08,15,reviewed,us,us
+2019-12-24T18:37:56.041Z,11.5532,142.6859,51.55,4.9,mb,,117,20.375,0.6,us,us70006qny,2019-12-25T15:07:01.040Z,"287km SW of Merizo Village, Guam",earthquake,11.6,7.9,0.049,132,reviewed,us,us
+2019-12-24T17:18:50.100Z,60.2101,-152.7037,108.6,3.4,ml,,,,0.55,ak,ak019ggcmktq,2019-12-25T14:23:18.040Z,"30km S of Redoubt Volcano, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-24T17:16:56.891Z,-21.202,-68.9098,123.61,4.2,mb,,69,0.561,0.73,us,us70006qm3,2019-12-25T14:07:49.040Z,"140km N of Calama, Chile",earthquake,6,5.3,0.372,2,reviewed,us,us
+2019-12-24T16:55:01.250Z,39.7161674,-121.4834976,32.4,2.5,md,8,169,0.529,0.19,nc,nc73319036,2019-12-24T18:05:02.796Z,"4km SE of Concow, CA",earthquake,3.99,5.22,0.2,7,automatic,nc,nc
+2019-12-24T16:43:32.751Z,-26.9769,-63.3728,560.58,6,mww,,31,5.141,0.56,us,us70006qk4,2019-12-30T16:32:36.040Z,"15km WNW of El Hoyo, Argentina",earthquake,9.1,3.9,0.052,36,reviewed,us,us
+2019-12-24T14:36:54.869Z,43.6008,146.0262,101.07,5,mb,,125,2.536,0.54,us,us70006qjc,2019-12-25T13:49:36.371Z,"47km NE of Nemuro, Japan",earthquake,9.2,6.9,0.031,328,reviewed,us,us
+2019-12-24T14:26:57.010Z,33.6023333,-118.3866667,14.26,2.74,ml,81,121,0.1345,0.3,ci,ci39011903,2019-12-29T07:43:34.184Z,"16km S of Rancho Palos Verdes, CA",earthquake,0.3,0.53,0.145,238,reviewed,ci,ci
+2019-12-24T13:55:24.203Z,36.7189,71.1639,232.59,4.3,mb,,98,0.901,0.4,us,us70006qiu,2019-12-24T15:06:11.040Z,"33km W of Ashkasham, Afghanistan",earthquake,8.3,4.5,0.091,34,reviewed,us,us
+2019-12-24T13:52:45.820Z,-22.6118,-172.9654,10,4.9,mb,,73,8.728,0.48,us,us70006qiw,2019-12-24T15:09:13.040Z,"249km SE of `Ohonua, Tonga",earthquake,10.6,1.9,0.049,132,reviewed,us,us
+2019-12-24T13:37:39.178Z,-30.2079,-178.0872,54.9,4.5,mb,,164,0.969,0.54,us,us70006qip,2019-12-24T14:55:40.040Z,"105km S of Raoul Island, New Zealand",earthquake,16.5,14.5,0.131,17,reviewed,us,us
+2019-12-24T12:44:34.653Z,-1.3232,69.4716,10,4.4,mb,,59,3.957,0.68,us,us70006qim,2019-12-27T14:41:15.040Z,"Carlsberg Ridge",earthquake,8.8,1.8,0.127,18,reviewed,us,us
+2019-12-24T12:22:44.258Z,62.7465,-151.8524,10.5,3.4,ml,,,,0.74,ak,ak019gg9o96p,2019-12-27T14:24:47.040Z,"101km WNW of Talkeetna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2019-12-24T11:49:34.365Z,-17.2437,-174.1491,169.84,4.8,mb,,103,4.026,1.37,us,us70006qif,2019-12-24T12:08:54.040Z,"149km SSW of Hihifo, Tonga",earthquake,10.2,9.2,0.112,25,reviewed,us,us
+2019-12-24T10:06:47.661Z,5.1443,-82.4313,10,4.6,mb,,146,3.363,0.66,us,us70006qhm,2019-12-24T10:31:04.040Z,"South of Panama",earthquake,12.1,1.9,0.047,132,reviewed,us,us
+2019-12-24T09:55:47.930Z,19.1656,-67.179,11,3.14,md,6,296,0.7014,0.32,pr,pr2019358011,2019-12-24T11:53:39.324Z,"75km NNW of Isabela, Puerto Rico",earthquake,8.41,12.66,0.18,5,reviewed,pr,pr
+2019-12-24T09:10:02.840Z,35.8508333,-117.6926667,4.65,2.86,ml,26,61,0.07227,0.2,ci,ci39011687,2019-12-24T09:47:29.057Z,"22km ESE of Little Lake, CA",earthquake,0.3,0.67,0.204,26,automatic,ci,ci
+2019-12-24T08:56:53.360Z,19.0146,-67.1326,32,3.2,md,6,285,0.5475,0.37,pr,pr2019358010,2019-12-24T11:53:20.836Z,"57km N of San Antonio, Puerto Rico",earthquake,2.26,9.12,0.08,4,reviewed,pr,pr
+2019-12-24T08:39:14.060Z,18.3316,-65.1123,34,3.31,md,4,345,0.7605,0.14,pr,pr2019358009,2019-12-24T11:50:33.460Z,"19km W of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.92,5.02,0.05,3,reviewed,pr,pr
+2019-12-24T07:53:17.390Z,19.3703,-67.3328,23,3.41,md,12,301,0.9295,0.34,pr,pr2019358006,2019-12-24T08:20:26.450Z,"100km NNW of San Antonio, Puerto Rico",earthquake,1.89,27.37,0.25,9,reviewed,pr,pr
+2019-12-24T07:43:46.070Z,18.8425,-67.3033,112,3.16,md,5,313,0.7013,0.29,pr,pr2019358008,2019-12-24T11:50:09.500Z,"44km NNW of San Antonio, Puerto Rico",earthquake,6.9,5.52,0.17,5,reviewed,pr,pr
+2019-12-24T06:52:23.892Z,61.4989,-149.8668,37.2,3.6,ml,,,,0.6,ak,ak019gg6a1fu,2019-12-25T06:54:50.068Z,"8km S of Big Lake, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2019-12-24T06:34:51.200Z,19.2271671,-155.4396667,31.83,2.55,md,57,119,0.04115,0.13,hv,hv71290616,2019-12-24T06:38:08.330Z,"4km ENE of Pahala, Hawaii",earthquake,0.44,0.61,0.2,30,automatic,hv,hv
+2019-12-24T06:33:59.540Z,38.817,-122.7628333,2.47,3.16,ml,90,43,0.01454,0.08,nc,nc73318771,2019-12-28T19:29:23.418Z,"4km W of Cobb, CA",earthquake,0.12,0.17,0.171,57,reviewed,nc,nc
+2019-12-24T05:52:56.516Z,7.0933,92.4323,10,5.1,mb,,100,4.543,1,us,us70006qg6,2019-12-24T06:15:32.040Z,"137km SW of Mohean, India",earthquake,8.3,1.9,0.07,66,reviewed,us,us
+2019-12-24T05:35:04.120Z,17.0863,-67.6598,29,3.42,md,12,309,1.072,0.45,pr,pr2019358005,2019-12-24T08:24:52.746Z,"110km SSW of Pole Ojea, Puerto Rico",earthquake,2.66,29.12,0.22,7,reviewed,pr,pr
+2019-12-24T03:20:56.600Z,17.9056,-66.583,11,2.69,md,7,208,0.1391,0.21,pr,pr2019358003,2019-12-24T08:22:49.482Z,"12km SSE of Ponce, Puerto Rico",earthquake,1.01,0.78,0.21,6,reviewed,pr,pr
+2019-12-24T03:14:47.387Z,54.4578,159.8324,136.07,4.5,mb,,148,1.599,0.57,us,us70006qel,2019-12-24T03:27:49.040Z,"170km NNE of Yelizovo, Russia",earthquake,13.7,9.9,0.094,33,reviewed,us,us
+2019-12-24T02:19:14.760Z,19.9386673,-156.0756683,11.95,2.52,md,24,253,0.3363,0.33,hv,hv71290316,2019-12-24T10:21:49.523Z,"25km NNW of Kalaoa, Hawaii",earthquake,5.91,8.05,0.18,5,automatic,hv,hv
+2019-12-24T02:13:30.790Z,17.8665,-68.0641,26,2.78,md,6,345,0.7813,0.09,pr,pr2019358002,2019-12-24T04:38:33.585Z,"80km SE of Boca de Yuma, Dominican Republic",earthquake,3.12,9.6,0.39,4,reviewed,pr,pr
+2019-12-24T01:45:35.824Z,9.5143,-81.963,10,4.3,mb,,126,1.012,0.85,us,us70006qe8,2019-12-24T13:30:09.217Z,"30km NE of Isla Bastimentos, Panama",earthquake,2.8,2,0.217,6,reviewed,us,us
+2019-12-24T00:54:38.380Z,36.6744995,-121.2988358,4.16,2.94,ml,52,65,0.0443,0.11,nc,nc73318686,2019-12-24T15:26:06.639Z,"13km S of Tres Pinos, CA",earthquake,0.18,0.79,0.22,9,automatic,nc,nc
+2019-12-24T00:25:41.420Z,32.602,-109.1116,12.07,3.2,ml,,72,0.051,0.41,us,us70006qd9,2019-12-30T06:50:13.083Z,"47km NW of Lordsburg, New Mexico",earthquake,2.3,5,0.062,34,reviewed,us,us
+2019-12-24T00:25:09.970Z,10.8563,-86.4757,35,4.7,mb,,129,1.148,0.92,us,us70006qdf,2019-12-29T23:16:37.161Z,"79km WSW of San Juan del Sur, Nicaragua",earthquake,7.8,2,0.031,318,reviewed,us,us
+2019-12-24T00:24:13.258Z,10.8972,-86.4727,35,4.5,mb,,193,1.171,0.79,us,us70006qda,2019-12-26T06:26:09.040Z,"76km WSW of San Juan del Sur, Nicaragua",earthquake,3.4,2,0.066,68,reviewed,us,us
+2019-12-24T00:19:57.088Z,13.3699,-89.4003,81.61,4.3,mb,,135,1.023,1.24,us,us70006qd5,2019-12-30T22:04:40.438Z,"15km SSW of La Libertad, El Salvador",earthquake,7.2,8.3,0.052,104,reviewed,us,us
+2019-12-24T00:09:48.800Z,19.1775,-67.2476,24,3.21,md,7,322,0.723,0.46,pr,pr2019358000,2019-12-26T06:12:26.040Z,"72km N of Isabela, Puerto Rico",earthquake,3.02,29.78,0.17,6,reviewed,pr,pr

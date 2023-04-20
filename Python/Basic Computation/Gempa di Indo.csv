@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-12-29T13:18:06.464Z,4.4091,125.1504,65.42,4.7,mb,,88,2.677,1.16,us,us70006s6j,2019-12-29T14:11:18.040Z,"115km SSW of Sarangani, Philippines",earthquake,8.4,8.2,0.09,38,reviewed,us,us
+2019-12-29T12:03:55.928Z,4.6257,125.3181,49.65,4.8,mb,,94,2.441,0.64,us,us70006s64,2019-12-29T12:52:40.040Z,"87km S of Sarangani, Philippines",earthquake,5.6,7.7,0.069,65,reviewed,us,us
+2019-12-29T09:12:14.074Z,4.6441,125.3147,10,5.2,mww,,37,2.424,1.08,us,us70006s54,2019-12-29T09:29:50.040Z,"85km S of Sarangani, Philippines",earthquake,6.7,1.8,0.078,16,reviewed,us,us
+2019-12-29T06:34:25.467Z,3.1424,123.8263,414.47,4.5,mb,,89,3.65,0.91,us,us70006s4e,2019-12-29T07:06:02.040Z,"215km NNW of Manado, Indonesia",earthquake,7.7,9.8,0.096,32,reviewed,us,us
+2019-12-28T18:25:44.849Z,1.4476,128.5553,59.31,5,mb,,45,1.364,0.9,us,us70006ry8,2019-12-28T18:44:48.040Z,"68km ESE of Tobelo, Indonesia",earthquake,6.1,7.1,0.054,111,reviewed,us,us
+2019-12-28T12:08:32.697Z,-6.4547,130.2209,139.97,4.9,mb,,75,1.856,0.77,us,us70006rvr,2019-12-28T12:27:30.040Z,"204km NW of Saumlaki, Indonesia",earthquake,5.9,7.2,0.098,33,reviewed,us,us
+2019-12-28T08:38:14.439Z,5.4056,127.1365,78.41,4.7,mb,,118,2.265,0.79,us,us70006rus,2019-12-28T09:29:15.040Z,"149km SE of Pondaguitan, Philippines",earthquake,7.4,7.6,0.081,47,reviewed,us,us
+2019-12-28T07:23:37.084Z,-6.2274,130.2536,149.52,4.6,mb,,91,2.028,0.97,us,us70006ru2,2019-12-28T07:58:28.040Z,"223km NNW of Saumlaki, Indonesia",earthquake,9.4,7.2,0.095,33,reviewed,us,us
+2019-12-28T01:59:38.287Z,5.2285,125.983,89.31,4.9,mb,,112,1.872,0.66,us,us70006rsi,2019-12-28T02:16:39.040Z,"60km ESE of Sarangani, Philippines",earthquake,9.4,9.1,0.117,23,reviewed,us,us
+2019-12-27T08:34:00.986Z,2.889,127.343,75.39,4.5,mb,,100,2.103,0.66,us,us70006rgu,2019-12-27T08:55:31.040Z,"148km NNW of Tobelo, Indonesia",earthquake,7.7,8.6,0.099,30,reviewed,us,us
+2019-12-26T16:59:54.254Z,-3.3404,130.7359,47.95,4.4,mb,,46,1.567,1.13,us,us70006r96,2019-12-27T17:10:42.040Z,"202km E of Amahai, Indonesia",earthquake,6.3,6.3,0.107,32,reviewed,us,us
+2019-12-26T07:22:10.378Z,-7.844,106.7599,54.71,4.7,mb,,54,3.728,0.69,us,us70006r59,2019-12-26T07:49:49.040Z,"46km S of Buniasih, Indonesia",earthquake,8.4,2.6,0.078,50,reviewed,us,us
+2019-12-25T16:56:17.126Z,4.3226,126.974,10,5.2,mb,,100,3.061,0.63,us,us70006qzx,2019-12-25T17:15:53.040Z,"205km SE of Sarangani, Philippines",earthquake,5.7,1.8,0.07,68,reviewed,us,us
+2019-12-25T02:33:00.062Z,-8.9581,124.1095,86.98,4.4,mb,,85,0.807,0.5,us,us70006qsw,2019-12-25T02:54:36.040Z,"67km NW of Kefamenanu, Indonesia",earthquake,7,6.2,0.162,11,reviewed,us,us
+2019-12-25T00:56:45.428Z,-1.5156,120.1165,10,4.8,mb,,91,2.692,1.06,us,us70006qsf,2019-12-25T01:22:03.040Z,"60km W of Kasiguncu, Indonesia",earthquake,4.3,1.9,0.135,17,reviewed,us,us
